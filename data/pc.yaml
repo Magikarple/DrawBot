@@ -1,0 +1,888 @@
+gender:
+- he
+- she
+race:
+- dwarf
+- dwarf
+- dwarf
+- dwarf
+- elf
+- elf
+- elf
+- elf
+- gnome
+- gnome
+- gnome
+- gnome
+- half-elf
+- half-elf
+- half-elf
+- half-elf
+- halfling
+- halfling
+- halfling
+- halfling
+- half-orc
+- half-orc
+- half-orc
+- half-orc
+- human
+- human
+- human
+- human
+- human
+- human
+- aasimar
+- aasimar
+- drow
+- drow
+- fetchling
+- fetchling
+- ratfolk
+- ratfolk
+- catfolk
+- catfolk
+- sylph
+- sylph
+- tengu
+- tengu
+- orc
+- hobgoblin
+- hobgoblin
+- kitsune
+- strix
+- undine
+- nagaji
+class:
+- pcclass: barbarian
+  icon: https://i.imgur.com/HC1QRR8.png
+- pcclass: bard
+  icon:  https://i.imgur.com/zlhZQs4.png
+- pcclass: cleric
+  icon:  https://i.imgur.com/5Oh5Ed3.png
+- pcclass: druid
+  icon:  https://i.imgur.com/tkBEsiZ.png
+- pcclass: monk
+  icon:  https://i.imgur.com/oVhjcPW.png
+- pcclass: paladin
+  icon:  https://i.imgur.com/GsB1GNA.png
+- pcclass: ranger
+  icon:  https://i.imgur.com/Wu43Bp8.png
+- pcclass: rogue
+  icon:  https://i.imgur.com/Ri83KXe.png
+- pcclass: sorcerer
+  icon:  https://i.imgur.com/RrZzpkb.png
+- pcclass: wizard
+  icon:  https://i.imgur.com/bAhp1em.png
+- pcclass: alchemist
+  icon:  https://i.imgur.com/DK89eeo.png
+- pcclass: cavalier
+  icon:  https://i.imgur.com/vaW5Ona.png
+- pcclass: gunslinger
+  icon:  https://i.imgur.com/B7kNZ02.png
+- pcclass: inquisitor
+  icon:  https://i.imgur.com/3mPZxs5.png
+- pcclass: magus
+  icon:  https://i.imgur.com/0GTJ54P.png
+- pcclass: oracle
+  icon:  https://i.imgur.com/u8fnA5O.png
+- pcclass: summoner
+  icon:  https://i.imgur.com/vB4JZmw.png
+- pcclass: vigilante
+  icon:  https://i.imgur.com/X5ecFrW.png
+- pcclass: witch
+  icon:  https://i.imgur.com/k51VlHN.png
+- pcclass: arcanist
+  icon:  https://i.imgur.com/E4tPt3G.png
+- pcclass: bloodrager
+  icon:  https://i.imgur.com/NqCItAB.png
+- pcclass: brawler
+  icon:  https://i.imgur.com/sm1fS5q.png
+- pcclass: hunter
+  icon:  https://i.imgur.com/Say1neu.png
+- pcclass: investigator
+  icon:  https://i.imgur.com/HcTsYTx.png
+- pcclass: shaman
+  icon:  https://i.imgur.com/PEdDfJ1.png
+- pcclass: skald
+  icon:  https://i.imgur.com/OrCNFko.png
+- pcclass: slayer
+  icon:  https://i.imgur.com/j9DwrjN.png
+- pcclass: swashbuckler
+  icon:  https://i.imgur.com/RaqAuQs.png
+- pcclass: warpriest
+  icon:  https://i.imgur.com/A10BEe2.png
+
+stats:
+- who prefers to act using their raw power and physical might. (Strength)
+- who prefers to use precise strikes and overall hightened agility to overcome obstacles.
+  (Dexterity)
+- who prefers to rely on their healthy body and temperament to overcome challenges.
+  (Constitution)
+- who prefers to use their capacity for logic, learning, planning, creativity and
+  problem solving. (Intelligence)
+- who prefers to think and act using knowledge, experience, understanding, common
+  sense, and insight. (Wisdom)
+- who uses their compelling attractiveness or charm to inspire devotion in others
+  or manipulate foes. (Charisma)
+align:
+- Lawful Good
+- Lawful Good
+- Lawful Good
+- Lawful Good
+- Lawful Good
+- Lawful Good
+- Neutral Good
+- Neutral Good
+- Neutral Good
+- Neutral Good
+- Neutral Good
+- Neutral Good
+- Chaotic Good
+- Chaotic Good
+- Chaotic Good
+- Chaotic Good
+- Lawful Neutral
+- Lawful Neutral
+- Lawful Neutral
+- Lawful Neutral
+- Neutral
+- Neutral
+- Chaotic Neutral
+- Chaotic Neutral
+- Lawful Evil
+- Lawful Evil
+- Neutral Evil
+- Chaotic Evil
+lgdeity:
+- Abadar
+- Erastil
+- Iomedae #LG NG LN
+- Irori #LG LN LE N
+- Sarenrae #LG NG CG N
+- Shelyn #LG NG CG N
+- Torag #LG NG LN
+ngdeity:
+- Cayden Cailean
+- Desna
+- Erastil
+- Gozreh
+- Iomedae #LG NG LN
+- Nethys #N NG LN CN NE
+- Pharasma #N NG LN CN NE
+- Sarenrae #LG NG CG N
+- Shelyn #LG NG CG N
+- Torag #LG NG LN
+cgdeity:
+- Calistria
+- Cayden Cailean
+- Desna
+- Gorum
+- Lamashtu #NE CE CN
+- Sarenrae #LG NG CG N
+- Shelyn #LG NG CG N
+lndeity:
+- Abadar
+- Asmodeus
+- Erastil
+- Gozreh
+- Iomedae #LG NG LN
+- Irori #LG LN LE N
+- Nethys #N NG LN CN NE
+- Pharasma #N NG LN CN NE
+- Torag #LG NG LN
+- Zon-Kuthon #LN LE NE
+ndeity:
+- Abadar
+- Calistria
+- Gorum
+- Gozreh
+- Irori #LG LN LE N
+- Nethys #N NG LN CN NE
+- Norgorber #N LE NE CE
+- Pharasma #N NG LN CN NE
+- Sarenrae #LG NG CG N
+- Shelyn #LG NG CG N
+- Urgathoa #N LE NE CE
+cndeity:
+- Calistria
+- Cayden Cailean
+- Desna
+- Gorum
+- Gozreh
+- Lamashtu #NE CE CN
+- Nethys #N NG LN CN NE
+- Pharasma #N NG LN CN NE
+- Rovagug #NE CE CN
+ledeity:
+- Abadar
+- Asmodeus
+- Irori #LG LN LE N
+- Norgorber #N LE NE CE
+- Urgathoa #N LE NE CE
+- Zon-Kuthon #LN LE NE
+nedeity:
+- Asmodeus
+- Gozreh
+- Lamashtu #NE CE CN
+- Nethys #N NG LN CN NE
+- Norgorber #N LE NE CE
+- Pharasma #N NG LN CN NE
+- Rovagug #NE CE CN
+- Urgathoa #N LE NE CE
+- Zon-Kuthon #LN LE NE
+cedeity:
+- Calistria
+- Gorum
+- Norgorber #N LE NE CE
+- Rovagug #NE CE CN
+- Urgathoa #N LE NE CE
+deity:
+- Abadar
+- Asmodeus
+- Calistria
+- Cayden Cailean
+- Desna
+- Erastil
+- Gorum
+- Gozreh
+- Iomedae
+- Irori
+- Lamashtu
+- Nethys
+- Norgorber
+- Pharasma
+- Rovagug
+- Sarenrae
+- Shelyn
+- Torag
+- Urgathoa
+- Zon-Kuthon
+hair:
+- ash blonde
+- bronze blonde
+- flaxen blonde
+- ginger blonde
+- golden blonde
+- honey blonde
+- platinum blonde
+- tawny blonde
+- wheaten blonde
+- auburn
+- copper red
+- flaming Red
+- strawberry blond Red
+- ash brown
+- ginger brown
+- sandy brown
+- chestnut brown
+- russet brown
+- russet brown
+- sable brown
+- sorrel brown
+- jet Black
+- raven Black
+- sooty black
+- black
+- ash Gray
+- iron Gray
+- salt and pepper Gray
+- silver Gray
+- steel Gray
+- pearl White
+- snow white
+hairlength:
+- long
+- short
+- thick
+- thin
+- curly
+- long, thin
+- short, thin
+- long, thick
+- long, thin
+- wavy
+- long, wavy
+- short, wavy
+bodytype:
+- a lean
+- a lightly muscled
+- a broad shouldered
+- a small shouldered
+- an athletic
+- a muscular
+- a fat
+- an atrophied
+- a lean
+- a lightly muscled
+- a broad shouldered
+- a small shouldered
+- an athletic
+- a muscular
+- an atrophied
+- a stocky
+- a lanky
+- a hulking
+- an emaciated
+height:
+- is shorter than most of their kind
+- is taller than most of their kind
+- is of average height
+simple:
+- a gauntlet
+- their bare hands
+- a brass knife
+- a brass knuckles
+- a cestus
+- a dagger
+- a punching dagger
+- a spiked gauntlet
+- a hook hand
+- a kunai
+- a light mace
+- a sickle
+- a spring blade
+- a wooden stake
+- a club
+- a heavy mace
+- a morningstar
+- a shortspear
+- a bayonet
+- a boarding pike
+- a kumade
+- a collapsible kumade
+- a longspear
+- a quarterstaff
+- a spear
+- a boar spear
+- a weighted spear
+- a blowgun
+- a heavy crossbow
+- a light crossbow
+- a dart
+- a javelin
+- a sling
+- a stingchuck
+- a stonebow
+martial:
+- a boarding axe
+- throwing axes
+- a blade boot
+- a cat-o'-nine-tails
+- a dogslicer
+- a light hammer
+- a gladius
+- a handaxe
+- a switchblade knife
+- a kukri
+- a machete
+- a light pick
+- a sap
+- a sea-knife
+- a light spiked shield
+- a starknife
+- a short sword
+- a war razor
+- a ankus
+- a battleaxe
+- a cutlass
+- a flail
+- a gandasa
+- a klar
+- a longsword
+- a manople
+- a heavy pick
+- a rapier
+- a scimitar
+- a scizore
+- a sword cane
+- a terbutje
+- a steel terbutje
+- a trident
+- a warhammer
+- a bardiche
+- a bec de corbin
+- a bill
+- a earth breaker
+- a falchion
+- a heavy flail
+- a glaive
+- a glaive-guisarme
+- a greataxe
+- a greatclub
+- a greatsword
+- a guisarme
+- a halberd
+- a lucerne hammer
+- a horsechopper
+- a lance
+- a ogre hook
+- a pickaxe
+- a planson
+- a ranseur
+- a scythe
+- a syringe spear
+- a ammentum
+- a chakram
+- a jolting dart
+- a hunga munga
+- a hurlbat
+- a longbow
+- a composite longbow
+- a pilum
+- a shortbow
+- a composite shortbow
+- a spear-sling
+simpmart:
+- a gauntlet
+- their bare hands
+- a brass knife
+- a brass knuckles
+- a cestus
+- a dagger
+- a punching dagger
+- a spiked gauntlet
+- a hook hand
+- a kunai
+- a light mace
+- a sickle
+- a spring blade
+- a wooden stake
+- a club
+- a heavy mace
+- a morningstar
+- a shortspear
+- a bayonet
+- a boarding pike
+- a kumade
+- a collapsible kumade
+- a longspear
+- a quarterstaff
+- a spear
+- a boar spear
+- a weighted spear
+- a blowgun
+- a heavy crossbow
+- a light crossbow
+- a dart
+- a javelin
+- a sling
+- a stingchuck
+- a stonebow
+- a boarding axe
+- throwing axes
+- a blade boot
+- a cat-o'-nine-tails
+- a dogslicer
+- a light hammer
+- a gladius
+- a handaxe
+- a switchblade knife
+- a kukri
+- a machete
+- a light pick
+- a sap
+- a sea-knife
+- a light spiked shield
+- a starknife
+- a short sword
+- a war razor
+- a ankus
+- a battleaxe
+- a cutlass
+- a flail
+- a gandasa
+- a klar
+- a longsword
+- a manople
+- a heavy pick
+- a rapier
+- a scimitar
+- a scizore
+- a sword cane
+- a terbutje
+- a steel terbutje
+- a trident
+- a warhammer
+- a bardiche
+- a bec de corbin
+- a bill
+- a earth breaker
+- a falchion
+- a heavy flail
+- a glaive
+- a glaive-guisarme
+- a greataxe
+- a greatclub
+- a greatsword
+- a guisarme
+- a halberd
+- a lucerne hammer
+- a horsechopper
+- a lance
+- a ogre hook
+- a pickaxe
+- a planson
+- a ranseur
+- a scythe
+- a syringe spear
+- a ammentum
+- a chakram
+- a jolting dart
+- a hunga munga
+- a hurlbat
+- a longbow
+- a composite longbow
+- a pilum
+- a shortbow
+- a composite shortbow
+- a spear-sling
+bardwep:
+- a gauntlet
+- a unarmed strike
+- a brass knife
+- a brass knuckles
+- a cestus
+- a dagger
+- a punching dagger
+- a spiked gauntlet
+- a hook hand
+- a kunai
+- a light mace
+- a sickle
+- a spring blade
+- a wooden stake
+- a club
+- a heavy mace
+- a morningstar
+- a shortspear
+- a bayonet
+- a boarding pike
+- a kumade
+- a collapsible kumade
+- a longspear
+- a quarterstaff
+- a spear
+- a boar spear
+- a weighted spear
+- a blowgun
+- a heavy crossbow
+- a light crossbow
+- a dart
+- a javelin
+- a sling
+- a stingchuck
+- a stonebow
+- a longsword
+- a rapier
+- a sap
+- a shortsword
+- a shortbow
+- a whip
+inquisitorwep:
+- a gauntlet
+- thier bare hands
+- a brass knife
+- a pair of brass knuckles
+- a cestus
+- a dagger
+- a punching dagger
+- a spiked gauntlet
+- a hook hand
+- a kunai
+- a light mace
+- a sickle
+- a spring blade
+- a wooden stake
+- a club
+- a heavy mace
+- a morningstar
+- a shortspear
+- a bayonet
+- a boarding pike
+- a kumade
+- a collapsible kumade
+- a longspear
+- a quarterstaff
+- a spear
+- a boar spear
+- a weighted spear
+- a blowgun
+- a heavy crossbow
+- a light crossbow
+- a bag of darts
+- a javelin
+- a sling
+- a stingchuck
+- a stonebow
+- a hand crossbow
+- a longbow
+- a repeating crossbow
+- a shortbow
+- the favored weapon of their deity
+roguewep:
+- a gauntlet
+- their bare hands
+- a brass knife
+- a brass knuckles
+- a cestus
+- a dagger
+- a punching dagger
+- a spiked gauntlet
+- a hook hand
+- a kunai
+- a light mace
+- a sickle
+- a spring blade
+- a wooden stake
+- a club
+- a heavy mace
+- a morningstar
+- a shortspear
+- a boarding pike
+- a kumade
+- a collapsible kumade
+- a longspear
+- a quarterstaff
+- a spear
+- a boar spear
+- a weighted spear
+- a blowgun
+- a heavy crossbow
+- a light crossbow
+- a bag of darts
+- a javelin
+- a sling
+- a stingchuck
+- a stonebow
+- a hand crossbow
+- a rapier
+- a sap
+- a shortbow
+- a short sword
+brawlerwep:
+- a gauntlet
+- their bare hands
+- a brass knife
+- brass knuckles
+- a cestus
+- a dagger
+- a punching dagger
+- a spiked gauntlet
+- a hook hand
+- a kunai
+- a light mace
+- a sickle
+- a spring blade
+- a wooden stake
+- a club
+- a heavy mace
+- a morningstar
+- a shortspear
+- a bayonet
+- a boarding pike
+- a kumade
+- a collapsible kumade
+- a longspear
+- a quarterstaff
+- a spear
+- a boar spear
+- a weighted spear
+- a blowgun
+- a heavy crossbow
+- a light crossbow
+- a bag of darts
+- a javelin
+- a sling
+- a stingchuck
+- a stonebow
+- a handaxe
+- a short sword
+investigatorwep:
+- a gauntlet
+- a unarmed strike
+- a brass knife
+- a brass knuckles
+- a cestus
+- a dagger
+- a punching dagger
+- a spiked gauntlet
+- a hook hand
+- a kunai
+- a light mace
+- a sickle
+- a spring blade
+- a wooden stake
+- a club
+- a heavy mace
+- a morningstar
+- a bayonet
+- a boarding pike
+- a kumade
+- a collapsible kumade
+- a longspear
+- a quarterstaff
+- a spear
+- a boar spear
+- a weighted spear
+- a blowgun
+- a heavy crossbow
+- a light crossbow
+- a bad of darts
+- a javelin
+- a sling
+- a stingchuck
+- a stonebow
+- a hand crossbow
+- a rapier
+- a sap
+- a shortbow
+- a short sword
+- a sword cane
+- a shortspear
+druidwep:
+- a club
+- a dagger
+- a bag of darts
+- a quarterstaff
+- a scimitar
+- a scythe
+- a sickle
+- a shortspear
+- a sling
+- a spear
+monkwep:
+- a brass knuckles
+- a cestus
+- a club
+- a light crossbow
+- a heavy crossbow
+- a dagger
+- dual daggers
+- a handaxe
+- dual handaxes
+- a javelin
+- a kama
+- a nunchaku
+- a quarterstaff
+- a sai
+- a shortspear
+- a short sword
+- a shuriken
+- a siangham
+- a sling
+- a spear
+- a temple sword
+wizardwep:
+- a club
+- a dagger
+- dual daggers
+- a heavy crossbow
+- a light crossbow
+- a quarterstaff
+birth:
+- You were born among peasants or slum denizens. You grew up working the land around a village or manor, practicing a rudimentary trade, or begging in a settlement.
+- You were born to the middle class, which includes merchants, artisans, and tradespeople.
+- You were born to privilege among the nobility. Unless one of your parents is the regent, your family serves a higher-ranked noble but lesser nobles serve your family in turn.
+- You were not raised by your birth family and grew up in a family of a different race than your own.
+- You were not raised by your birth family, but taken in by another family within your race or culture.
+- Your parents had a tryst that resulted in your birth out of wedlock. You know one of your parents, but the other remains unknown or a distant presence at best.
+- When you were born, you were blessed by a being of great power such as an angel, azata, or genie. This blessing has protected you from certain peril or marked you as special to some deity.
+- Your birth was caused by violent, unwilling means. You have one parent, and the other likely remains unknown.
+- You were born in a different era, either the distant past or the far future. Some event has displaced you from your time, and the ways and customs of the present seem strange and alien to you.
+- You were born into slavery or servitude. Your parents are likely slaves or servants, or you were sold into slavery as an infant.
+- When you were born, a powerful fiendish entity tainted your blood in some way and cursed you as an agent of dark prophecy.
+- You were born into a family that once was honored among your society but has since fallen into disgrace. Now your family name is loathed and maligned by those who know it, putting you on your guard.
+- You are the heir to a family with an old name and a distinguished past. Your family might be wealthy or middle class, but your name itself is worth twice your fortunes.
+- When you were born you were left to die, but by some twist of circumstance you survived.
+- A deity has marked you. That mark can be on your body or your soul.
+- During your birth you were exposed to potent source of divine energy.
+- You were born during a particularly powerful conjunction or in some other time of power.
+- Your birth was foretold, as recently as during the last generation to as far back as thousands of years ago.
+- You have been reborn in many cycles, and may be reborn in many more until you accomplish the ultimate task for which you are destined.
+- The sages, priests, or wizards of your society decreed your birth an omen of a coming age or event—perhaps you are an omen of promise, perhaps one of dark times ahead.
+childhood:
+- You attended a private academy where you studied a number of skills and gained training. Whether you were a brilliant student or a dropout, the university environment was your home for a good portion of your formative years.
+- A friend or family member whom you trusted more than anyone else betrayed you. You have never fully trusted anyone since and prefer to rely on your own abilities rather than place your trust in others.
+- In your early life, you were a victim—easy prey for those stronger or cleverer than yourself. They beat you when they could, using you for their sport. This abuse nursed a powerful flame of vengeance.
+- You distinguished yourself at an early age when you won a competition. This might have been a martial contest of arms, a showing of apprentice magicians, high stakes gambling, or something mundane like an eating championship.
+- You were profoundly affected by the death of the relative closest to you—a parent, grandparent, favorite sibling, aunt, uncle, or cousin. This death affected you profoundly, and you've never been able to let go of it.
+- You died, or came so close to death that you walked the boundary between the realms of the living and the dead. Having passed from life's domain once, you have a unique perspective on life.
+- In your early years, an old power with far-reaching influence fell into decline. This could have been an empire, a major organization or gang, or a person such as a benevolent king or evil dictator.
+- In your youth, you ran with a brutal, evil, or sadistic crowd. You might have belonged to a gang, a thieves' guild, or some other nefarious organization. It was easy to cave in to pressure and do whatever they told you to do, and your outlook is colored by moral ambiguity.
+- You've had blood on your hands since your youth, when you first took the life of another creature. Whether this act repulsed you or gave you pleasure, it was a formative experience.
+- Your first love was everything you imagined it would be. That is, until you were separated from your beloved. This may have been the result of distance, changing perspectives, death, or differences in class or family.
+- Your criminal record began when you were young. You were imprisoned, punished, and possibly displayed in public as a criminal. Whether or not you committed the crime, the experience has stayed with you.
+- A great sum of wealth or property was bequeathed to you at an early age, providing you with extraordinary means. Daily costs of living have ceased to concern you, and you've learned that there is little that money cannot buy.
+- You were kidnapped at some point in your childhood. The kidnappers might have been pirates, slavers, thieves looking for ransom, a powerful guild seeking to blackmail your parents, a cult, and so on else. Before you were released you picked up on various aspects of the criminal underworld.
+- When you were a child, you found, stole, or were given a magic item that gave you an extraordinary ability. You may have used this item for mischief, crime, or good. Since that time, magic items have always held a special fascination for you.
+- You witnessed—and survived—a major disaster in your childhood years, such as a great fire, flood, earthquake, volcano, or storm. It obliterated the settlement where you lived, whether a small village, large city, or entire island.
+- A mentor or patron took an interest in your development and volunteered to train or sponsor you. This creature's motives might not be entirely clear, but without its influence you would not be who you are.
+- When you were only a child, you made contact with a magical creature, such as a dragon, unicorn, genie, pixie, or similar creature. You learned a powerful lesson or a magic trick from that creature. This meeting changed your life and made you different from the other children.
+- Your childhood was fairly ordinary, with no major blessing or catastrophe—a stark contrast to an adventuring life. You lived your life in anticipation of growing up so you could affect the dull backdrop upon which your mundane life was painted.
+- A horde of raiders attacked your settlement and killed several of your people when you were very young. This could have been a tribe of brutal humanoids or the conquering army of a civilized nation. As a result, you harbor deep resentment toward a particular faction, race, or country.
+- You grew up against the backdrop of a major military conflict that affected much of your childhood world. You became accustomed to a short food supply, living in occupied territory, and moving from place to place. Several of the people you knew in your childhood were lost in the war, including members of your family.
+adolesence:
+- there was a lone wolf who nonetheless cautiously allowed you to become a member of her solitary pack. She taught you how to thrive on your own in spite of the many perils and natural dangers of your native environment.
+- you met a disgraced exile, and found in his words and attitudes something that spoke to you. What once seemed true in your religion, society, or family began to appear false the more time you spent with this person, and you quickly learned not to trust everyone you meet.
+- there was a person in your life to whom you could tell anything. She knows your deepest secrets and your emotional weaknesses and vulnerabilities just as you know hers. This person could be a valuable friend and a frightening enemy, so you make sure to keep eachother's secrets.
+- you had a mentor who taught you everything worth knowing about life. This could have been the person who taught you the heroic abilities you possess, or simply a kindred spirit who helped form your worldview.
+- you were friends with a shady person. With this person, there was always a cost. No deed was done making a trade for something of equal or greater value. He was always fair in his dealings. You respected this trait and it influenced your own philosophy.
+- you had a romantic connection in your adolescent years, and this person deeply influenced your personality.The experience bolstered your confidence in romantic interactions even though you often find your thoughts still straying toward that special someone from so long ago.
+- one of your close associates was a clown who mocked propriety and custom, instead engaging in wild and somewhat random actions from time to time. After a while, you learned that there was simple wisdom to this foolery—a careless worldview that taught you how to cast off concern.
+- you became close with someone you were bound to serve. Though this person held power over you, she held you closer than a subject or servant. As a result, you're used to dealing with and being close to power, and your name is known among the ranks of the privileged.
+- there is a relative you were especially close to. To you, this person was the meaning of family. He helped shepherd you into adulthood, teaching you everything you know about the world. You are bound to this person and you strive to keep a promise you made to him.
+- you once gained employment under an organized and powerful individual with far-reaching influence. When the boss was present, everyone listened. From the boss, you learned how to make people listen, make them see reason, and keep them in line.
+- one of your associates had such a lust for knowledge that she could never be satisfied. This desire for knowledge frequently exceeded her need for companionship, but you were the exception. Through this association you developed a keen appreciation for intelectualism.
+- one of your associates committed crimes regularly. He regaled you with many stories of daring robberies and break-ins—and perhaps even murders. You learned most of what you know of the criminal element from him, and he trusted you as a friend.
+- you were close to a person who claimed to see the future—perhaps an oracle, seer, prophet, or merely some festival charlatan. Whether they're true or a trick, you've seen visions of distant places and of times that may come to pass.
+- you were especially close to a holy person in your community who fundamentally changed your life by opening your eyes to the incredible powers that exist beyond the natural world. Regardless of whether you follow a faith, certain religious artifacts, rituals, and texts played a large part in making you the person you are.
+- one of your greatest influences was a sentient undead creature, such as a ghost, lich, grave knight, wraith, or vampire. You encountered it on several occasions and survived…mostly unscathed. Through this strange relationship you learned of its mortal life, giving you perspective on your own life.
+- in your adolescent years, you dealt with or were possessed by a fiend who lent you raw power at a time of great need. This experience tainted your body and mind and changed your life. Some part of the demon remains inside you like an old friend, influencing you toward destructive ends.
+- you knew someone who traveled from place to place with the changing of the wind, such as a minstrel, convict, merchant, outcast, soldier, or sailor. This person brought you wondrous mementos and told you of all the places he had traveled and the people who lived there, inspiring a wanderlust within you.
+- you were close to someone who excelled at athletic endeavors and tests of strength or skill. Through your friendship or rivalry, you developed the competitive spirit that continues to drive you in everything you do.
+- one of your major influences cherished perfection in every form of art. This person might have followed any path in life, from craftsperson to artist to assassin. From this person you developed a disciplined mind, a solitary focus, and the ability to create something useful and beautiful.
+- in your circle of disparate associates, there was someone everyone knew. This person collected friends like trophies, and she had contacts in every social or professional circle. Through this connection, you continue to meet and associate with a wide variety of people in every walk of life.
+drawback:
+- You are attached to a precious possession with immense sentimental value and significance. Without it, you are no longer yourself and are prone to suffer from depression, moodiness, or aggressive behavior.
+- You are attached to a particular person—a friend, family member, or loved one—who means more than anything or anyone in the world. Your thoughts always return to this person.
+- Your family means everything to you, and there is nothing you wouldn't do for them. Maybe your ties extend to your entire clan or bloodline, or perhaps there is one specific member of your family you hold closer than any other.
+- Unfairness and injustice are intolerable. Whenever you witness them, you feel compelled to act or speak out. When you're personally wronged, you require appeasement—or revenge if you don't receive it.
+- Your love for someone motivates you. When this person is in danger, you're prone to feel weak, powerless, or angry.
+- You value loyalty over all things. You treasure the friends, associates, and lovers you have earned throughout the years, and when someone breaks your trust or betrays you in some way, you become utterly unhinged.
+- You have a weakness for material things—money, fine jewelry, exquisite foods, expensive or rare items, and so on. When such riches are within your reach, you're driven to possess them, and you claim them either as an honest collector or a cunning thief.
+- You crave luxury, entertainment, and pleasure. You might indulge in every passing fancy or hold strong against a temptation that constantly eats at you.
+- You long for the ability to influence the world around you, whether that's as small as a village or as large as a plane of reality.
+- You present an image to the world that can't be tarnished. When someone questions your motives, criticizes your actions, or insults your honor or pride, you question his friendship or count him among your enemies until he makes amends.
+- You are truly comfortable only around others of your race, and you have a hard time putting faith or trust in those of races different from your own.
+- Your beliefs are of paramount importance in your life, whether you belong to a temple, follow a cult, or practice a religious philosophy independently. When others question or attack the beliefs, principles, relics, or structures of your faith, you respond with fury.
+- You've worked hard to establish your identity and reputation, and someone who slanders or insults you must answer for it. You strive to promote your identity to the point where everyone knows your reputation.
+- You are cautious and guarded—wary of others who might harm you, steal from you, or betray your trust. As such, you sleep lightly, always suspecting someone or something to sneak in upon you in the dark. Even when in relationships with people who trust you.
+- No matter what you do, it's never good enough. You cannot help but see in your victories many little defeats and failures. If you were stronger, smarter, faster, or more powerful, maybe you could be better. However, stuck in the body and mind you have, you feel you're destined to fail.
+- You want others to accept you, to believe you're special and worthy of merit. You are self-conscious about your social flaws and breaches of etiquette. Rejection is among your greatest fears. You might go to extraordinary lengths to be accepted by or seek favor from your peers.
+- Your concerns lie not with the present, but with preparation for the future. You may be an avid and organized planner, or perhaps you see the signs of a coming dark age or troubled time. You behave cautiously, conservatively, and methodically as you plan for events that might one day occur.
+- You long for the world to return to a past age. You've adopted the manners and style of this age, and are fascinated by its customs, relics, and artifacts, and by the historical figures of that time. Perhaps you live so much in this past age that your connection to the present is tenuous. Or your pretentiousness annoys others.
+- In your eyes, your moral philosophy—your alignment—is the only correct and true way of the world. Perhaps you gently pity, argue with, or brawl with those misguided souls who don't see the world your way or by your light of reason.
+- You reflect upon your youth as a golden time, one ever present in your mind and that refuses to fade into the background. Every day, you feel yourself growing older and closer to your inevitable end.
+onelover:
+- You had a true love once, but that time has passed. You were torn apart by fate and were far flung from each other. You've lost that spark and as a result cannot bear to open your heart to another.
+- You had a true love once, but your lover didn't feel the same. They were swept off their feet by another person and never looked back. This left you hollow on the inside.
+- You have a true love who is completely devoted to you; and you in turn to them. There is very little you would not do for them.
+afew:
+- You've tried to make deep connections with individuals on several occasions, but it's never worked out. Even the few that lasted longer than a month eventually had a major fissure tear you apart. Despite this, you keep searching with open arms for that one true love.
+- You've tried to make deep connections with individuals on several occasions, but it's never worked out. There is always something in the back of your mind that prevents you from fully committing and this is your downfall for each intimate relationship you try to forge.
+- You've tried to make deep connections with individuals on several occasions, and you've been able to deeply connect with only one other. A tragic event tore you apart as you watched them die before you. You've been left scared and jaded when it comes to romantic relationships.
+several:
+- You've engaged in a number of partnerships, but for some reason or another your relationships always fail.
+- You have no issue getting anyone and anything in bed. You're very well traveled in those regards. Something always ends up happening and you're forced to end things before they get too serious.
+current:
+- You are currently involved in a romantic relationship. You couldn't be happier.
+severalrelations:
+- You have had many lovers but no long-lasting, meaningful relationships.
+experienced:
+- You've had a fling or two, but have so far shied away from any ties or commitments.
+none:
+- You have never experienced any kind of romantic connection whatsoever. You know how they work in theory, but in practice you're a total novice.
+- You have never experienced any kind of romantic connection whatsoever. Not due to being ugly or dumb but more from simply being too busy to forge a relationship with someone else.
+- You have no experience with love or any kind of intimate relationship. You spent your free time in your youth reading novels and formed a crush on a character from a series you enjoyed. No one has been comparable.
+- You are yet to found your one true love. A prophecy, an oracle or someone with the ability to see the future believe that destiny is teaching you patience, and the one and only person you'll ever fall in love with will be the truest and last

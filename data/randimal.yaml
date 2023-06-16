@@ -1,0 +1,396 @@
+knowledge:
+- smart
+- clever
+- brilliant
+- resourceful
+- crafty
+- wise
+- intelligent
+- sensible
+- smart
+- dull
+- foolish
+- stupid
+- dimwitted
+- dumb
+- simple
+- doltish
+- imbecilic
+- moronic
+skinlength:
+- short
+- long
+- stubby
+- sharp
+- coarse
+- wavey
+- coarse
+- layered
+- densley layered
+- thick
+- thin
+- smooth
+- rough
+- curly
+- straight
+- broken
+- smooth
+rarity:
+- very common
+- common
+- uncommon
+- rare
+- very rare
+- exotic
+- mythical
+- legendary
+- extinct
+- critically endangered
+- endangered
+size:
+- tiny
+- colossal
+- gargantuan
+- huge
+- large
+- medium
+- small
+- tiny
+- diminutive
+lbodypart:
+- two
+- four
+ubodypart:
+- two
+- four
+colour:
+- red
+- blue
+- green
+fishskin:
+- scales
+- incrustation
+- plate
+- film
+#AVIAN
+avianskinlength:
+- short
+- long
+- coarse
+- layered
+- densley layered
+- thick
+- thin
+- smooth
+- rough
+- curly
+- straight
+- smooth
+feathercolourdesc:
+- iridescent
+- iridescent
+- banded
+- spotted
+- matte
+- shiny
+- multi-coloured
+- rainbow
+feathercolour:
+- red
+- blue
+- green
+- orange
+- black
+- grey
+ubodypartavian:
+- long
+- short
+- small
+- tiny
+- giant
+- huge
+lbodypartavian:
+- long
+- short
+- small
+- tiny
+- giant
+- huge
+avianfeet:
+- independent flexible toes with one pointing backwards ideal for grasping perches
+- two toes pointing forwards and two backwards; ideal for climbing around on tree trunks
+- webbing between their toes for swimming
+- long toes that spread its weight over a large surface area allowing walking on soft surfaces
+- large claws to capture kill and carry prey with their feet
+- large claws to defend themselves and fight off attatckers
+- strong feet to scratch and dig in the dirt to forage for food
+wings:
+- passive soaring wings that have long primary feathers that spread out
+- active soaring wings that are long and narrow allowing the avian to soar for a long time
+- elliptical wings that are good for short bursts of high speed
+- high-speed wings that are thin and allow fast take offs and tight maneuvering
+- hovering wings that are small and quick
+- high-speed wings that are long and thin
+avianskin:
+- feathers
+- fringe feathers
+- plumage
+leggrade:
+- digitigrade
+- digitigrade
+- plantigrade
+aviantail:
+- long
+- stubby
+- squared
+- rounded
+- graduated
+- pointed
+- emarginate
+- forked
+- split
+aviantailsize:
+- the same size as
+- the same size as
+- twice as long as
+- twice as long as
+- three times as longer as
+- half the size of
+- quadruple the size of
+aviantypeofmate:
+- female
+- male
+avianmatingbehaviour:
+- singing
+- displaying it's feathers
+- displaying it's beak
+- struting it's legs
+- dancing
+- flapping it's wings rythmically
+- bobbing it's head up and down
+- rubbing it's bill on the ground
+- preening
+- building a gigantic nest
+- building an impressive nest
+- building an intricate nest
+- building an oddly shaped nest
+- building a massive nest
+- building a gigantic grass hut
+- building an impressive grass hut
+- building an intricate grass hut
+- building an oddly shaped grass hut
+- building a massive grass hut
+- building gigantic structures
+- building impressive structures
+- building intricate structures
+- building oddly shaped structures
+- building massive structures
+- screaming uncontrollably
+- regurgitating food
+- staring at the ground for days on end
+- gathering sticks in a gigantic pile
+- gathering sticks in an impressive pile
+- gathering sticks in an intricate pile
+- gathering sticks in an oddly shaped pile
+- gathering sticks in a massive pile
+- struts around while head-flagging
+- forming a tight group and walk together in formation
+- struting around and fanning their tail features
+- creating a loud 'WHUP' sound that can be heard for miles
+- partaking in an intricate courtship dance that can last for days
+- jumping around sometimes grabbing bits of grass to toss in the air
+- a dance that involves wing flapping bowing jumps and simply playing around
+- by using elaborate tail feathers that can be erected into a spectacular display of color and pattern
+- a vigorous dance that heavily involves spreading the wings out and rocking side to side
+- erectingits plumage during a courtship dance into what is essentially a parasol of shimmering color
+- an aerobatic courtship dance that includes elegant head arches and importantly running in sync across the surface of the water
+- pivoting back and forth on a branch darting between a primary perch and surrounding vegetation while making a snapping sound with its wings
+- circling in flight then returning to its perch
+avianrelationshiplength:
+- for less than a week
+- until the young is grown
+- until the eggs hatch
+- for the mating season
+- until a better mate is found
+- long term
+- for several mating seasons
+- for life
+- long enough to breed and then leaves
+avianfledgetime:
+- several weeks
+- three weeks
+- two weeks
+- 20 days
+- 30 days
+- two months
+- nearly 4-6 months
+avianlifespan:
+- 1-5 years
+- 1-5 years
+- 1-5 years
+- 7-14 years
+- 7-14 years
+- 15-25 years
+- 30-40 years
+- 50-60 years
+- about 60 years
+- around 80-100 years
+avianteritorial:
+- not very territorial
+- somewhat territorial
+- somewhat territorial
+- very territorial
+avianteritorialclaim:
+- singing a very high pitched song
+- singing a very low pitched song
+- singing a very low frequency hum
+- building a large nest full of twigs and sticks
+- building a nest out of a pile of rocks around it's tree or home
+- drumming on the largest tree rythmically
+- stamping it's feet for hours on end
+- displaying it's colourful feathers
+- displaying it's tail spread out wide
+- flapping it's wings when other birds are in sight
+- screaming a high pitched noise when other birds are in sight
+- agressively chasing anything it sees
+- chasing out other birds and animals from it's tree
+- swooping other birds or animals from above
+aviannoselength:
+- long
+- short
+- wide
+- stubby
+- clunky
+aviannoseshape:
+- thin
+- wide
+- sharp
+- curved
+- straight
+- blunt
+- flexable
+avianeyesize:
+- huge
+- tiny
+- reletively large
+- reletively small
+- medium
+- small
+- large
+avianeyeshape:
+- ovular
+- round
+- oblonged
+- thin
+aviansightquality:
+- exelent
+- superior
+- poor
+- very bad
+- crystal clear
+#MAMMAL STUFF
+hairdescmammal:
+- short
+- long
+- stubby
+- sharp
+- coarse
+- wavey
+- coarse
+- layered
+- densley layered
+- thick
+- thin
+- smooth
+- rough
+- curly
+- straight
+- broken
+- smooth
+mammalskin:
+- fur
+- awn hair
+- hair
+colourmammal:
+- beige
+- black
+- blonde
+- brown
+- dark
+- golden
+- grey
+- light grey
+- olive
+- orange
+- red
+- reddish-orange
+- silver
+- tan
+- tawny
+- white
+- yellow
+- albino
+mammalubodylength:
+- short
+- stubby
+- long
+mammalubodyparthand:
+- legs
+- arms
+mammalubodypart:
+- ending in paws
+- ending in heart shaped paws
+- ending in square-shaped paws
+- ending in rounded paws
+- ending in muscular paws
+- ending in heart shaped feet
+- ending in square-shaped feet
+- ending in rounded feet
+- ending in muscular feet
+- ending in primitive hands
+- ending in basic hand-like feet
+- ending in primitive hands
+- ending in basic hand-like feet use for knuckle-walking
+- ending in primitive hands used in Knuckle-walking
+- ending in front claws on each of their spade-like feet
+- with five digits with non-retractable claws to enable the mammal to move about in the trees more easily
+- with four toes on each foot
+- with large claws which are curled under when walking
+- with long and bony fingers and sharp pointed claws on the ends to help when dangling from branches
+mammallbodypartlength:
+- short
+- long
+- thin
+- thick
+- stubby
+- elongated
+- fairly long
+- spidery
+- stumpy
+mammallbodypart:
+- very powerful
+- very muscular
+- somewhat weak
+- lean
+- muscular
+mammalwalkstyle:
+- plantigrade locomotion
+- plantigrade locomotion
+- digitigrade locomotion
+- digitigrade locomotion
+- digitigrade locomotion
+- unguligrade locomotion
+mammaltaillength:
+- long
+- short
+- thick
+- thin
+mammaltail:
+- prehensile tail used to hold and manipulate objects
+- partially prehensile tail often used to dangle from a branch, or as an aid for climbing
+- tail used to convery emotion
+- tail used both to sweep away insects or
+- tail moved in ways that indicate the physical or emotional state
+- tail twiled around to spread feces to mark their territory
+- tail primarily used for communication
+- tail primarily used for balance

@@ -1,9 +1,14 @@
 # Discord config file
-/data
 /Gemfile.lock
 /run.sh
 /media
 Gemfile
+
+data/config.yaml
+data/refdb.yaml
+data/userinfo.yaml
+data/bank.yaml
+
 
 ## Documentation cache and generated files:
 /.yardoc/

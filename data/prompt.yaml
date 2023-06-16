@@ -1,0 +1,855 @@
+mood:
+- Scary
+- Creepy
+- Uplifting
+- Happy
+- Melancholy
+- Exciting
+- Ambiguous
+- Ambivalent
+- Apathetic
+- Cynical
+- Disturbing
+- Diverse
+- Dominant
+- Exuberant
+- Humourous
+- Hysterical
+- Insensitive
+- Jovial
+- Lackadaisical
+- Livid
+- Morose
+- Precocious
+- Raucous
+- Relaxed
+- Sarcastic
+- Sensitive
+- Sleepy
+- Soothed
+prompt:
+- You become a character in your favorite video game, and…
+- Your grandma comes to town and brings an unexpected surprise…
+- You are an astronaut who finds something strange on the moon…
+- Your parents tell you that you’re moving across the country.
+- An alien comes to Earth, and…
+- At the beach, you find a special seashell…
+- At summer camp, the boys and girls wage a prank war against one another.
+- Every time a dog barks, something unusual happens…
+- You learn that you are heir to a throne…
+- At the library, you find a photo in a book.
+- The last seconds on the clock are ticking, and the ball is in your hands. What happens next?
+- You get stuck in an elevator with…
+- In the backyard, your dog finds a mysterious necklace…
+- Your best friend is elected President.
+- At the mall, you walk by a mannequin that looks just like you. Something odd is happening…
+- You find an old photo of your grandmother, and see that she was a famous actress…
+- You receive a letter in the mail saying that you’ve won $10,000. What do you do?
+- Your favorite athlete shows up at one of your games—but as a player on the other team!
+- Your bicycle runs away from home. How do you find it?
+- You discover a magic button that will…
+- You suspect the school library might be haunted…
+- You come home to find your cat eating a bowl of ice cream. What happens next?
+- You win a contest on the radio for…
+- Three kids get locked in the mall. What do they decide to do?
+- You travel to the prairie and see…
+- You switch places for a day with your favorite celebrity.
+- You’re a race cat driver with an embarrassing secret.
+- Your favorite singer agrees to perform an exclusive show in your basement.
+- You come home from school to find a box on your porch. What’s inside?
+- At your birthday party, you receive a very special present…
+- Your luggage gets lost at the airport and you accidentally open the wrong bag.
+- Your class gets snowed in at school. What do you do?
+- You show up at school, but you can’t remember where of your classes are or who anyone is.
+- You switch places for a day with your dad.
+- In the back of your closet, you find a basketball jersey…
+- You find out that your teacher used to be…
+- The pizza delivery person brings you something you didn’t order. What is it?
+- You find $1000 on the ground, and…
+- Your family wins the lottery.
+- You discover your parents are spies…
+- You become the youngest person ever to set a world record for…
+- You and your best friend end up on the set of your favorite TV show. What happens?
+- You take a ride on a tornado, and…
+- You run into some trouble while camping…
+- There is a magic swing at the park that will take you to…
+- The power goes out, and you’re home alone…
+- One day, there is a very strange weather report that says…
+- Everywhere you go, you keep hearing a song that no one else can hear…
+- You find a map leading to buried treasure, but it’s buried under the principal’s house!
+- You hear an ad on the radio for a magic product that will…
+- You stumble upon a cure for __________. What do you do with it?
+- On Christmas Eve, you hear a strange noise on the roof…
+- You’re in the school play and worried about forgetting your lines.
+- You get home from the zoo and find a baby monkey in your trunk! What do you do?
+- You win a cooking contest for your famous __________ recipe.
+- Outside the Window; What’s the weather outside your window doing right now? If that’s not inspiring, what’s the weather like somewhere you wish you could be?
+- The Unrequited love poem; How do you feel when you love someone who does not love you back?
+- The Vessel; Write about a ship or other vehicle that can take you somewhere different from where you are now.
+- Dancing; Who’s dancing and why are they tapping those toes?
+- Food; What’s for breakfast? Dinner? Lunch? Or maybe you could write a poem about that time you met a friend at a cafe.
+- Eye Contact; Write about two people seeing each other for the first time.
+- The Rocket-ship; Write about a rocket-ship on it’s way to the moon or a distant galaxy far, far, away.
+- Dream-catcher; Write something inspired by a recent dream you had.
+- Animals; Choose an animal. Write about it!
+- Friendship; Write about being friends with someone.
+- Dragon; Envision a dragon. Do you battle him? Or is the dragon friendly? Use descriptive language.
+- Greeting; Write a story or poem that starts with the word “hello”.
+- The Letter Poem; Write a poem using words from a famous letter or a letter from your own collection.
+- The found poem; Read a book and circle some words on a page. Use those words to craft a poem. Alternatively you can cut out words and phrases from magazines.
+- Eavesdropper; Create a poem, short story, or journal entry about a conversation you’ve overheard.
+- Addict; Everyone’s addicted to something in some shape or form. What are things you can’t go without?
+- Dictionary Definition; Open up a dictionary to a random word. Define what that word means to you.
+- Cleaning; Hey, even writers and creative artists have to do housework sometimes. Write about doing laundry, dishes, and other cleaning activities.
+- Great Minds; Write  about someone you admire and you thought to have had a beautiful mind.
+- Missed Connections; If you go to Craigslist, there is a “Missed Connections” section where you can find some interesting story lines to inspire your writing.
+- Foreclosure; Write a poem or short story about someone who has lost or is about to lose their home.
+- Smoke, Fog, and Haze; Write about not being able to see ahead of you.
+- Sugar; Write something so sweet, it makes your teeth hurt.
+- Numbers; Write a poem or journal entry about numbers that have special meaning to you.
+- Dread; Write about doing something you don’t want to do.
+- Fear; What scares you a little? What do you feel when scared? How do you react?
+- Closed Doors; What’s behind the door? Why is it closed?
+- Shadow; Imagine you are someone’s shadow for a day.
+- Good Vibes; What makes you smile? What makes you happy?
+- Shopping; Write about your shopping wishlist and how you like to spend money.
+- The Professor; Write about a teacher that has influenced you.
+- Rewrite a Poem; Take any poem or short story you find anywhere. Rewrite it in your own words.
+- Jewelry; Write about a piece of jewelry. Who does it belong to?
+- Sounds; Sit outside for about an hour. Write down the sounds you hear.
+- War and Peace; Write about a recent conflict.
+- Frame It; Write a poem or some phrases that would make for good wall art in your home.
+- Puzzle; Write about putting together the pieces of puzzles.
+- Fire-starters; Write about building a fire.
+- Coffee & Tea; Surely you drink one or the other or know someone who does- write about it!
+- Cat Keys; Write about someone getting their driver’s license for the first time.
+- What You Don’t Know; Write about a secret you’ve kept from someone else or how you feel when you know someone is keeping a secret from you.
+- Warehouse; Write about being inside an old abandoned warehouse.
+- The Sound of Silence; Write about staying quiet when you feel like shouting.
+- Insult; Write about being insulted.
+- Mirror, Mirror; What if you mirror started talking to you?
+- Dirty; Write a poem about getting covered in mud.
+- Light Switch; Write about coming out of the dark and seeing the light.
+- The Stars; Take inspiration from a night sky.
+- Joke Poem; What did the wall say to the other wall? Meet ya at the corner! Hahaha.
+- Just Say No; Write about the power you felt when you told someone no.
+- Sunrise/Sunset; It goes round and round.
+- Memory Lane; What’s it look like? How do you get there?
+- Tear-Jerker; Watch a movie that makes you cry. Write a poem about that scene in the movie.
+- Dear Diary; Write a poem or short story about a diary entry you’ve read or imagined.
+- Holding Hands; The first time you held someone’s hand.
+- Photograph; Write a story or journal entry influenced by a photograph.
+- Alarm Clock; Write about waking up.
+- Darkness; Write a poem or journal entry inspired by what you can’t see
+- Refreshed; Write a poem about a time you really felt refreshed and renewed. Maybe it was a dip into a pool on a hot summer day, a drink of lemonade, or other situation that helped you relax and start again.
+- Handle With Care; Write about a very fragile or delicate object.
+- Drama; Write about a time when you got stuck in between two parties fighting with each other.
+- Slip Up; Write about making mistakes.
+- Spice; Write about flavors and tastes or a favorite spice of yours.
+- Sing a New Song; Take a popular song off the radio and rewrite it as a poem in your own words.
+- Telephone; Write about a phone call you recently received.
+- Name; Write a poem or short story using your name in some way or form.
+- Dollhouse; Write a poem or short story from the viewpoint of someone living in a doll house.
+- Random Wikipedia Article; Go to Wikipedia and click on Random Article. Write about whatever the page you get.
+- Silly Sports; Write about an extreme or silly sport. If none inspire you, make up the rules for your own game.
+- Recipe; Write about a favorite recipe, or create a poem that is a recipe for something abstact, such as a feeling.
+- Famous Artwork; Choose a famous painting and write about it.
+- Where That Place Used to Be; Think of a place you went to when you were younger but it now no longer there or is something else. Capture your feelings about this in your writing.
+- Last Person You Talked to; Write a quick little poem or story about the last person you spoke with.
+- Caught Red-Handed; Write about being caught doing something embarrassing.
+- Interview; Write a list of questions you have for someone you would like to interview, real or fictional.
+- Missing You; Write about someone you miss dearly.
+- Geography; Pick a state or country you’ve never visited. Write about why you would or would not like to visit that place.
+- Random Song; Use the shuffle feature on your MP3 player or go to a site like 8tracks.com or Songza.com and pick a playlist. Write something inspired by the first song you hear.
+- Hero; Write a tribute to someone you regard as a hero.
+- Ode to Strangers; Go people watching and write an ode to a stranger you see on the street.
+- Advertisement; Advertisements are everywhere, aren’t they? Write using the slogan or line from an ad.
+- Book Inspired; Think of your favorite book. Now write a poem that sums up the entire story in 10 lines.
+- Magic; Imagine you have a touch of magic, and can make impossible things happen. What would you do?
+- Fanciest Pen; Get out your favorite pen, pencils, or even colored markers and write using them!
+- A Day in the Life; Write about your daily habits and routine.
+- Your Muse; Write about your muse – what does he or she look like? What does your muse do to inspire you?
+- Convenience Store; Write about an experience you’ve had at a gas station or convenience store.
+- Natural Wonders of the World; Choose one of the natural wonders of the world. Write about it.
+- Facebook or Twitter Status; Write a poem using the words from your latest status update or a friend’s status update. If you don’t use Facebook or Twitter, you can often search online for some funny ones to use as inspiration.
+- Green Thumb; Write about growing something.
+- Family Heirloom; Write about an object that’s been passed through the generations in your family.
+- Bug Catcher; Write about insects.
+- Potion; Write about a magic potion. What is it made of? What does it do? What is the antidote?
+- Swinging & Sliding; Write something inspired by a playground or treehouse.
+- Adjectives; Make a list of the first 5 adjectives that pop into your head. Use these 5 words in your story, poem, or journal entry.
+- Fairy Tales; Rewrite a fairy tale. Give it a new ending or make it modern or write as a poem.
+- Whispers; Write about someone who has to whisper a secret to someone else.
+- Smile; Write a poem about the things that make you smile.
+- Seasonal; Write about your favorite season.
+- Normal; What does normal mean to you? Is it good or bad to be normal?
+- Recycle; Take something you’ve written in the past and rewrite it into a completely different piece.
+- Wardrobe; Write about a fashion model or what’s currently in your closet or drawers.
+- Secret Message; Write something with a secret message hidden in between the words. For example, you could make an acrostic poem using the last letters of the word or use secret code words in the poem.
+- Vacation; Write about a vacation you took.
+- Heat; Write about being overheated and sweltering.
+- Spellbinding; Write a magic spell.
+- Puzzles; Write about doing a puzzle – jigsaw, crossword, suduko, etc.
+- Taking Chances; Everyone takes a risk at some point in their life. Write about a time when you took a chance and what the result was.
+- Carnival; Write a poem or story or journal entry inspired by a carnival or street fair.
+- Country Mouse; Write about someone who grew up in the country visiting the city for the first time.
+- Questions; Write about questions you have for the universe. Optional; include an answer key.
+- Rushing; Write about moving quickly and doing things fast.
+- Staircase; Use a photo of a staircase or the stairs in your home or a building you love to inspire you.
+- Neighbors; Make up a story or poem about your next door neighbor.
+- Black and Blue; Write about a time you’ve been physically hurt.
+- All Saints; Choose a saint and create a poem about his or her life.
+- Beach Inspired; What’s not to write about the beach?
+- Shoes; What kind of shoes do you wear? Where do they lead your feet?
+- The Ex; Write a poem to someone who is estranged from you.
+- My Point of View; Write in the first person point of view.
+- Stray Animal; Think of the life of a stray cat or dog and write about that.
+- Stop and Stare; Create a poem or story about something you could watch forever.
+- Your Bed; Describe where you sleep each night.
+- Fireworks; Do they inspire you or do you not like the noise and commotion? Write about it.
+- Frozen; Write about a moment in your life you wish you could freeze and preserve.
+- Alone; Do you like to be alone or do you like having company?
+- Know-it-all; Write about something you are very knowledgeable about, for example a favorite hobby or passion of yours.
+- The Promise; Write about a promise you’ve made to someone. Did you keep that promise?
+- Commotion; Write about being overstimulated by a lot of chaos.
+- Read the News Today; Construct a poem or story using a news headline for your first line.
+- Macro; Write a description of an object close-up.
+- Transportation; Write about taking your favorite (or least-favorite) form of transportation.
+- Gadgets; If you could invent a gadget, what would it do? Are there any gadgets that make your life easier?
+- Bring on the Cheese; Write a tacky love poem that is so cheesy, it belongs on top of a pizza.
+- Ladders; Write a story or poem that uses ladders as a symbol.
+- Bizarre Holiday; There is a bizarre holiday for any date! Look up a holiday for today’s date and create a poem in greeting card fashion or write a short story about the holiday to celebrate.
+- Blog-o-sphere; Visit your favorite blog or your feedreader and craft a story, journal entry, or poem based on the latest blog post you read.
+- Mailbox; Create a poem, short story, or journal entry based on a recent item of mail you’ve received.
+- Sharing; Write about sharing something with someone else.
+- Cactus; Write from the viewpoint of a cactus – what’s it like to live in the dessert or have a “prickly personality”?
+- It’s a Sign; Have you seen any interesting road signs lately?
+- Furniture; Write about a piece of furniture in your home.
+- Failure; Write about a time you failed at something. Did you try again or give up completely?
+- Mystical Creatures; Angels or other mystical creatures – use them as inspiration.
+- Flying; Write about having wings and what you would do.
+- Clear and Transparent; Write a poem about being able to see-through something.
+- Break the Silence; Record yourself speaking, then write down what you spoke and revise into a short story or poem.
+- Beat; Listen to music with a strong rhythm or listen to drum loops. Write something that goes along with the beat you feel and hear.
+- Color Palette; Search online for color palettes and be inspired to write by one you resonate with.
+- Magazine; Randomly flip to a page in a magazine and write using the first few words you see as an opening line.
+- The Grass is Greener; Write about switching the place with someone or going to where it seems the “grass is greener”.
+- Mind & Body; Write something that would motivate others to workout and exercise.
+- Shaping Up; Write something that makes a shape on the page… ie; a circle, a heart, a square, etc.
+- Twenty-One; Write about your 21st birthday.
+- Aromatherapy; Write about scents you just absolutely love.
+- Swish, Buzz, Pop; Create a poem that uses Onomatopoeia.
+- What Time is It? Write about the time of day it is right now. What are people doing? What do you usually do at this time each day?
+- Party Animal; Have you ever gone to a party you didn’t want to leave? Or do you hate parties? Write about it!
+- Miss Manners; Write using the words “please” and “thank you”.
+- Cliche; Choose a common cliche, then write something that says the same thing but without using the catch phrase.
+- Eco-friendly; Write about going green or an environmental concern you have.
+- Missing You; Write about someone you miss.
+- Set it Free; Think of a time when you had to let someone or something go to be free…did they come back?
+- Left Out; Write about a time when you’ve felt left out or you’ve noticed someone else feeling as if they didn’t belong.
+- Suitcase; Write about packing for a trip or unpacking from when you arrive home.
+- Fantasy; Write about fairies, gnomes, elves, or other mythical creatures.
+- Give and Receive; Write about giving and receiving.
+- Baker’s Dozen; Imagine the scents and sights of a bakery and write.
+- Treehouse; Write about your own secret treehouse hideaway.
+- Risk; Write about taking a gamble on something.
+- Acrostic; Choose a word and write an acrostic poem where every line starts with a letter from the word.
+- Crossword Puzzle; Open up the newspaper or find a crossword puzzle online and choose one of the clues to use as inspiration for your writing.
+- Silver Lining; Write about the good that happens in a bad situation.
+- Gloves; Write about a pair of gloves – what kind of gloves are they? Who wears them and why?
+- All that Glitters; Write about a shiny object.
+- Jealousy; Write with a theme of envy and jealousy.
+- How Does Your Garden Grow? Write about a flower that grows in an unusual place.
+- Jury Duty; Write a short story or poem that takes place in a courtroom.
+- Gifts; Write about a gift you have given or received.
+- Running; Write about running away from someone or something.
+- Discovery; Think of something you’ve recently discovered and use it as inspiration.
+- Complain; Write about your complaints about something.
+- Gratitude; Write a poem or journal entry that is all about things you are thankful for.
+- Chemistry; Choose an element and write a poem or story that uses that word in one of the lines.
+- Applause; Write about giving someone a standing ovation.
+- Old Endings Into New Beginnings; Take an old poem, story, or journal entry of yours and use the last line and make it the first line of your writing today.
+- Longing; Write  about something you very much want to do.
+- I Am; Write a motivational poem or journal entry about positive traits that make you who you are.
+- Rainbow; What is at the end of a rainbow?
+- Museum; Take some time to visit a nearby museum with your journal. Write about one of the pieces that speaks to you.
+- Cartoon; Think of your favorite cartoon or comic. Write a poem or story that takes place in that setting.
+- Copycat; Borrow a line from a famous public domain poem to craft your own.
+- From the Roof-tops; Imagine you could stand on a rooftop and broadcast a message to everyone below – what would you say?
+- Time Travel; If there was a time period you could visit for a day, where would you go? Write about traveling back in time to that day.
+- Changing Places; Imagine living the day as someone else.
+- Neighborhood; Write about your favorite place in your neighborhood to visit and hang out at.
+- Pirates; Write about a pirate ship.
+- Interview; Write based on a recent interview you’ve read or seen on TV or heard on the radio.
+- Hiding Spaces; Write about places you like to hide things at. What was a favorite hiding spot for you as a child playing hide-and-seek?
+- Extreme Makeover; Imagine how life might be different if you could change your hair color or clothing into something completely opposite from your current style.
+- Empathy; Write about your feelings of empathy or compassion for another person.
+- Opposites; Write a poem or story that ties in together two opposites.
+- Boredom; Write about being bored or make a list of different ways to entertain yourself.
+- Strength; Think of a time when you’ve been physically or emotionally strong and use that as inspiration.
+- Hunger; Write from the perspective of someone with no money to buy food.
+- Greed; Write about someone who always wants more – whether it be money, power, etc. etc.
+- Volcano; Write about an eruption of a volcano.
+- Video Inspiration; Go to Vimeo.com or YouTube.com and watch one of the videos featured on the homepage. Write something inspired by what you see.
+- Sneeze; Write about things that make you sneeze.
+- Footsteps on the Moon; Write about the possibility of life in outer-spaaaaaace.
+- Star-crossed; Write a short modern version of the story of Romeo and Juliet or think of real-life examples to use as inspiration for your writing.
+- Font-tastic; Choose a unique font and type out a poem using that font.
+- Schedule; Take a look at your calendar and use the schedule for inspiration in writing.
+- Grandparents; Write about a moment in your grandparent’s life.
+- Collage; Go through a magazine and cut out words that grab your attention. Use these words to construct a poem or as a story starter or inspiration for your journal.
+- Oh so Lonely; Write a poem about what you do when you are alone – do you feel lonely or do you enjoy your own company?
+- Waterfall; Think of a waterfall you’ve seen in person or spend some time browsing photos of waterfalls online. Write about the movement, flow, and energy.
+- First Kiss; Write about your first kiss.
+- So Ironic; Write about an ironic situation you’ve been in throughout your life.
+- Limerick; Write a limerick today.
+- Grocery Shopping; Write about an experience at the grocery store.
+- Fashion; Go through a fashion magazine or browse fashion websites online and write about a style you love.
+- So Close; Write about coming close to reaching a goal.
+- Drinks on Me; Write a poem or short story that takes place at a bar.
+- Online Friends; Write an ode to someone online you’ve met and become friends with.
+- Admiration; Is there someone you admire? Write about those feelings.
+- Trash Day; Write from the perspective of a garbage collector.
+- Mailbox; Open your mailbox and write something inspired by one of the pieces of mail you received.
+- Fresh & Clean; Write about how you feel after you take a shower.
+- Energized; Write about how you feel when you’re either at a high or low energy level for the day.
+- Rhyme & No Reason; Make up a silly rhyming poem using made up words.
+- Tech Support; Use computers or a conversation with tech support you’ve had as inspiration.
+- Hotel; Write from the perspective of someone who works at a hotel or staying at a hotel.
+- Underwater; Write about sea creatures, and under water life.
+- Breathing; Take a few minutes to do some deep breathing relaxation techniques. Once your mind is clear, just write the first few things that you think of.
+- Liar, Liar; Make up a poem or story of complete lies about yourself or someone else.
+- Obituaries; Look at the recent obituaries online or in the newspaper and imagine the life of someone and write about that person.
+- Pocket; Rummage through your pockets and write about what you keep or find in your pockets.
+- Cinquain; Write a cinquain poem.
+- Alphabetical; Write a poem that has every letter of the alphabet in it.
+- Comedy Club; Write something inspired by a comedian.
+- Cheater; Write about someone who is unfaithful.
+- Sestina; Give a try to writing a sestina poem.
+- Fight; Write about witnessing two people get in an argument with each other.
+- Social Network; Visit your favorite Social Networking website (ie Facebook, Pinterest, Google, Twitter, etc.) and write a about a post you see there.
+- Peaceful; Write about something peaceful and serene.
+- In the Clouds; Go cloud watching for the day and write about what you imagine in the clouds.
+- At the Park; Take some time to sit on a park bench and write about the sights, scenes, and senses and emotions you experience.
+- Sonnet; Write a sonnet today.
+- Should, Would, And Could; Write a poem or story using the words should, would, and could.
+- How to; Write a poem that gives directions on how to do something.
+- Alliteration; Use alliteration in your poem or in a sentence in a story.
+- Poker Face; Write about playing a card game.
+- Timer; Set a timer for 5 minutes and just write. Don’t worry about it making sense or being perfect.
+- Dance; Write about a dancer or a time you remember dancing.
+- Write for a Cause; Write a poem or essay that raises awareness for a cause you support.
+- Magic; Write about a magician or magic trick.
+- Out of the Box; Imagine finding a box. Write about opening it and what’s inside.
+- Under the Influence; What is something has impacted you positively in your life?
+- Forgotten Toy; Write from the perspective a forgotten or lost toy.
+- Rocks and Gems; Write about a rock or gemstone meaning.
+- Remote Control; Imagine you can fast forward and rewind your life with a remote control.
+- Symbolism; Think of objects, animals, etc. that have symbolic meaning to you. Write about it.
+- Light at the End of the Tunnel; Write about a time when you saw hope when it seemed like a hopeless situation.
+- Smoke and Fire; Write inspired by the saying “where there’s smoke, there’s fire”.
+- Railroad; Write about a train and its cargo or passengers.
+- Clipboard; Write about words you imagine on an office clipboard.
+- Shipwrecked; Write about being stranded somewhere – an island, a bus stop, etc.
+- Quotable; Use a popular quote from a speaker and use it as inspiration for your writing.
+- Map it Out; Create a mind map of words, phrases, and ideas that pop into your head or spend some time browsing the many mind maps online. Write a poem, story, or journal entry inspired by the mind map.
+- Patterns; Write about repeating patterns that occur in life.
+- Scrapbook; Write about finding a scrapbook and the memories it contains.
+- Cure; Write about finding a cure for an illness.
+- Email Subject Lines; Read your email today and look for subject lines that may be good starters for writing inspiration.
+- Wishful Thinking; Write about a wish you have.
+- Doodle; Spend some time today doodling for about 5-10 minutes. Write about the thoughts you had while doodling or inspired by your finished doodle.
+- Chalkboard; Imagine you are in a classroom. What does it say on the chalkboard?
+- Sticky; Imagine a situation that’s very sticky (ie maple syrup or tape or glue) – and write about it.
+- Flashlight; Imagine going somewhere very dark with only a flashlight to guide you.
+- A Far Away Place; Envision yourself traveling to a fictional place, what do you experience in your imaginary journey?
+- On the Farm; Write about being in a country or rural setting.
+- Promise to Yourself; Write about a promise you want to make to yourself and keep.
+- Brick Wall; Write a poem that is about a brick wall – whether literally or figuratively.
+- Making a Choice; Write about a time when you had to make a difficult choice.
+- Repeat; Write about a time when you’ve had to repeat yourself or a time when it felt like no one was listening.
+- Outcast; Write about someone who is not accepted by their peers. (for example, the Ugly Ducking)
+- Scary Monsters; Write about a scary (or not-so-scary) monster in your closet or under the bed.
+- Sacrifice; Write about something you’ve sacrificed doing to do something else or help another person.
+- Imperfection; Create a poem that highlights the beauty in being flawed.
+- Birthday Poem; Write a poem inspired by birthdays.
+- Title First; Make a list of potential poem or story titles and choose one to write from.
+- Job Interview; Write about going on a job interview.
+- Get Well; Write a poem that will help someone who is sick feel better quick!
+- Lost in the Crowd; Write about feeling lost in the crowd.
+- Apple a Day; Write about health.
+- Cravings; Write about craving something.
+- Phobia; Research some common phobias, choose one, and write about it.
+- In the Moment; Write about living in the present moment.
+- Concrete; Write about walking down a sidewalk and what you see and experience.
+- Stars; Write about the stars in the sky and what they mean to you.
+- This Old House; Write about an old house that is abandoned or being renovated.
+- Clutter; Is there a cluttered spot in your home? Go through some of that clutter today and write about what you find or the process of organizing.
+- Go Fly a Kite; Write about flying a kite.
+- On the TV; Flip to a random TV channel and write about the first thing that comes on – even if it’s an infomercial!
+- Fruit; Write a poem that is an ode to a fruit.
+- Long Distance Love; Write about a couple that is separated by distance.
+- Glasses; Write about a pair of eyeglasses or someone wearing glasses.
+- Robotic; Write about a robot.
+- Cute as a Button; Write about something you think is just adorable.
+- Movie Conversation; Use a memorable conversation from a favorite movie to inspire your writing.
+- Easy-Peasy; Write  about doing something effortlessly.
+- Idiom; Choose from a list of idioms one that speaks to you and create a poem around that saying or phrase. (Ie It’s raining cats and dogs)
+- Playground; Whether it’s the swings or the sandbox or the sliding boards, write about your memories of being on a playground.
+- Romance; Write about romantic things partners can do for each other.
+- Rock Star; Imagine you are a famous rock star. Write about the experience.
+- Come to Life; Imagine ordinary objects have come to life. Write about what they do and say.
+- Airplane; Write about meeting someone on an airplane and a conversation you might have.
+- Health & Beauty; Take some time to peruse your medicine cabinet or the health and beauty aisles at a local store. Write a poem, short story, or journal entry inspired by a product label.
+- Determination; Write about not giving up.
+- Instrumental Inspiration; Listen to some instrumental music and write a poem that matches the mood, beat, and style of the music.
+- Wait Your Turn; Write about having to wait in line.
+- Personality Type; Do you know your personality type? (There are many free quizzes online) – write about what type of personality traits you have.
+- Decade; Choose a favorite decade and write about it. (IE 1980’s or 1950’s for example)
+- I Believe; Write your personal credo of things you believe in.
+- Lost and Found; Write about a lost object.
+- Say it; Write a poem or story that uses dialogue between two people.
+- The Unsent Letter; Write about a letter that never made it to its recipient.
+- The Windows of the Soul; Write a poem about the story that is told through someone’s eyes.
+- Trial and Error; Write about something you learned the hard way.
+- Escape; Write about where you like to go to escape from it all.
+- Recipe; Write something inspired a favorite recipe.
+- Records; Go through your file box and pull out old receipts or records…write something inspired by what you find!
+- Banking; Write about visiting the bank.
+- Sweet Talk; Write about trying to convince someone of something.
+- Serendipity; Write about something that happened by chance in a positive way.
+- Distractions; Write about how it feels when you can’t focus.
+- Corporation; Write about big business.
+- Word of the Day; Go to a website that has a word of the day and use it in a poem, story or journal entry you write.
+- Pick Me Up; What do you do when you need a pick me up?
+- Unfinished; Write about a project you started but never completed.
+- Forgiveness; Write about a time when someone forgave you or you forgave someone.
+- Weakness; Write about your greatest weakness.
+- Starting; Write about starting a project.
+- Mechanical; Think of gears, moving parts, machines.
+- Random Act of Kindness; Write about a random act of kindness you’ve done for someone or someone has done for you, no matter how small or insignificant it may have seemed.
+- Underground; Imagine living in a home underground and use that as inspiration for writing.
+- Classic Rock; Pick a classic rock love ballad and rewrite it into a story or poem with a similar theme.
+- Night Owl; Write about staying up late at night.
+- Magnetic; Write about attraction to something or someone.
+- Teamwork; Write about working with a team towards a common goal.
+- Roller-coaster; Write about the ups and downs in life.
+- Motivational Poster; Look at some motivational posters online and write a poem or journal entry inspired by your favorite one.
+- Games; Write about the games people play – figuratively or literally.
+- Turning Point; Write about a point in life where things turned for the better or worse.
+- Spellbound; Write about a witch’s spell.
+- Anniversary; Write about the anniversary of a special date.
+- Gamble; Be inspired by a casino or lottery ticket.
+- Picnic; Write about going on a picnic.
+- Garage; Write about some random item you might find in a garage.
+- Review; Review your week, month, or year in a journal entry or poem format.
+- Detective; Write about a detective searching for clues or solving a mystery.
+- Camera; Take your camera for a walk and write based on one of the photographs you take.
+- Visiting; Write about visiting a family member or friend.
+- Trust; Writ about putting trust in someone.
+- Ma’am, is this your dog?
+- No, it’s really not that complicated. He’s a bad person.
+- Hey… what’s wrong with your face?
+- The king is missing.
+- Ah yes, come in. Close the door behind you.
+- How could you do this to me?
+- Um, sorry. That one’s not for sale.
+- You’ve got thirty seconds to explain to me what you’re doing here.
+- Ain’t nobody ever told you who your real daddy is?
+- I know this may be hard to believe, but I’m on your side.
+- Never heard of that being used as a murder weapon before.
+- Just sit around and cry, then. I don’t have that luxury.
+- I’m sorry. I thought you were someone else.
+- That’s the nice thing about telling the truth. You don’t have nearly as much to keep track of.
+- Of course we’re best friends. No one else would put up with our shenanigans.
+- That’s the least of your worries.
+- You look a lot different from your profile picture.
+- Do you trust me?
+- You found it on the beach? You know, when most people take a walk on the beach, they pick up seashells.
+- Sir. This is for children only.
+- I haven’t tried this on a human yet, but it should be very similar.
+- What? I meant it as a compliment.
+- Who put this in my coat pocket?
+- I can’t do this any more.
+- You think you’re so good-looking, but deep down, you’re the kind of ugly that PhotoShop can’t fix.
+- I know you did your best, but it just wasn’t enough.
+- Even if I could stop it, I wouldn’t.
+- You have got to see this.
+- Guess who made the evening news?
+- I don’t really think of myself as a thief…
+- Are you just going to keep walking by my house or are you going to come in?
+- We do things a little differently in the 21st century.
+- Please return to your assigned seat.
+- Dude. It’s 3 in the morning.
+- I can’t believe I used to think he was attractive.
+- Actually, you are speaking to the manager.
+- Where are your clothes?
+- Well, this contest isn’t going to rig itself.
+- Hi, I’m calling about your ad?
+- I can’t believe I’m telling you this.
+- I should have told you this a long time ago.
+- I am only telling the truth when I say that you have not behaved completely as a gentleman in this matter.
+- I thought we were friends!
+- That’s not a good look.
+- It’s a genetic trait, but it’s exceptionally rare.
+- I love you, but I don’t even think I know who you really are.
+- She’s evil, but she does have a point there.
+- I didn’t know you could talk.
+- Sweetie, what were you thinking?
+- What makes you think it was an accident?
+- Sorry. You’re the first person I’ve spoken to in ten years.
+- I don’t suppose you’ve got a blowtorch around here?
+- I know you’re here. You may as well show yourself.
+- Get a job!
+- This isn’t going to be a typical best man speech.
+- According to this, you owe them eighty thousand dollars.
+- We thought at first that it was part of the performance.
+- It’s been a while since I’ve seen y’all in church.
+- I would break his thumbs right now if I could.
+- Why are you helping me?
+- That’s the worst reason I’ve ever heard to have a baby.
+- I didn’t even recognize you!
+- Is it worth breaking your vows over?
+- I told you not to read that.
+- Put the turkey down.
+- I didn’t ask to be abducted.
+- That’s the most disgusting thing I’ve ever heard.
+- Where did you learn how to do that?
+- Are you banned from all Taco Bells, or just that Taco Bell?
+- I thought you had him!
+- Humility is not one of my many virtues.
+- How can you stand living here?
+- She’s young, fertile, and from a good family. What more do you need to know?
+- Sometimes being a total geek pays off.
+- You don’t have the correct paperwork.
+- Careful not to break the—oh.
+- I wasn’t going to say anything, but yeah.
+- I’d love to help, but I want to keep all of my money in case I want to spend it on other things.
+- Well aren’t you the cutest little thing?
+- Why is that your password?
+- Please don’t use sarcasm. It confuses me.
+- After we lost you, things just weren’t the same.
+- If you were logical you would’ve killed me already.
+- Well, that could’ve gone better.
+- Sometimes I feel like she’s still at my side.
+- We’ve been waiting two hours.
+- Your services are no longer required.
+- I feel like we’ve met before…
+- Does he hit you?
+- Yes, it’s a questionable line of work, but I’m good at it.
+- She’s in the building.
+- Wow! It’s an honor to meet you.
+- You were in a crash. Can you tell me your name?
+- This used to be a great country, but people like you are destroying it.
+- I’m cured. I swear.
+- My chances of living to a ripe old age are unfortunately excellent.
+- Let’s face it, you don’t exactly blend in.
+- Forgive me if I’m misreading things, but do you want to make out?
+- The next time you shoot a guy, don’t do it on national television.
+- Humanity finally figures out faster than light travel and discover that they are completely average by galactic standard, except for one thing, our innate ability to bullshit our way out of any situation.
+- You are an ancient evil sealed away within a vault filled with treasure that can only be opened by solving a puzzle that removes the magic seal, allowing you to reign free. You watch in horror as a couple of modern treasure hunters drill through the door and bypass the puzzle completely.
+- Every night after work, you go to the same pub. You know the regulars, the bartenders and the managers. One day at work, you invite a co-worker to join you. When you tell them what pub, they respond, confused, \"That place burned down 20 years ago.\"
+- Death is not the end of our life. It is merely the end of our jail sentence. When you break the rules in Heaven you have to serve time on Earth. If you don't change your ways on Earth you have to serve time in Hell.
+- You have the power to lucid dream and fully control your experience. Every night is an amazing experience. One night you stumble upon a strange girl in your dream, that you have no control over. \"I'm being chased,\" she says. \"This was the only place where they wouldn't find me.\"
+- You have always noticed weird things happen around you – things disappear, lightbulbs explode, objects seem to float. Then, on your 25th birthday, you get a letter. \"We apologize this is so late ...\" it begins.
+- You've had a crush on the local Superhero for a while. In an effort to get their attention, you've unintentionally become a Supervillain.
+- You think you have the power to stop time. In reality, everyone pretends to freeze when you walk in a room so you leave.
+- When the IT-guy took out a knife and a goat you knew your problem was more severe than initially thought.
+- One day, everyone on Earth receives a superpower. You are a psychopath who gets the purest, kindest power that there can be.
+- A multi-generational colony ship has been travelling for 200 years to arrive at the planet they're supposed to colonize. They arrive only to find that in the 200 years they've been in transit, FTL technology has gotten much better and there's already a thriving colony there.
+- The bad news; your house is haunted. The worse news; it’s the ghost of an emo teenager.
+- You are mind reader but can only see people's lost or repressed memories. You are part therapist, part detective, and much in demand. You are also a complete fraud.
+- The greatest alchemist to ever live was strangely never interested in finding a way to transform objects, or even finding a formula for immortality. He was much more interested in the perfect recipe for spaghetti.
+- You're a landlord renting out your haunted mansion to other supernatural beings, such as vampires, witches, succubi, werewolves and etc. Collecting rent is sometimes difficult.
+- Welcome, all of you, to the last day of your job search, says the interviewer as she walks in. By the end of today one of you will be hired, and the rest of you will be dead.
+- A retired super villain is in the bank with their child when a new crew of super villains comes in to rob the place.
+- Beauty is in the eye of the Bee Holder. You are the Bee Keeper, the most powerful person on the planet.
+- Aliens have finally visited Earth. Scientist from all around the world go to the landing site to make first contact. You, a scientist in NASA, has been asked to go as well. As the aliens come down from their ship, you notice that all of the aliens that come down, look exactly like you.
+- You're offered a deal that promises to unite you with your soulmate. But in order to find them, you need to move to their country permanently, and you're not told which country they live in until you've committed to the deal. You've just committed.
+- You have an unfortunate affliction. Occasionally, and uncontrollably, you let off a sound indistinguishable from that of a train horn, in both quality and volume.
+- Your cat just made its first birth. Unfortunately, it's a mutant. Fortunately, it's three times cuter/annoying. Meet Purrberus.
+- One day, you decide to thumb through your past diary entries. You notice that last week had TWO entries for Monday. You reread your entries, trying to find if there's a miscount in days, but you remember every day as being distinct. Actually, every prior week had 2 Mondays... Today is Sunday.
+- You seem to have accidentally boarded the wrong flight, and it’s the modern equivalent of the Ancient Greek ferry to the Underworld. You are the only living person on a plane full of damned souls.
+- You are immortal, having lived for countless centuries. Sadly you somehow have been absent and missed every important event in world history
+- a child narrates his first day in kindergarten as hard-boiled noir
+- You are a 217 year old Galapagos Tortoise, and have served as the Presidential pet your entire life. You have been listening the whole time, and now technology has progressed to such a point that a device allows animals to speak. Your first press conference is about to begin...
+- You are a sentient medical robot. Today you help a little girl who was dying of cancer slip away to die in nature. As the life leaves her body your optics go out. When they return you are sitting naked in the grass as a living breathing person and all the new sensations come crashing down on you
+- You die, but when you open your eyes you wake up to a bunch of alien friends and one asks, \"so how was it?\"
+- Instead of the moon, Earth and its sister planet revolve around each other. Unbeknownst to us, our sister planet has intelligent life that has been evolving separately. The year is 1969 and Neil Armstrong sets foot on this other planet.
+- You were both very drunk. Which is why you ordered the Uber. And how you ended up in an enormous spaceship instead of a Honda Civic. And why you didn't ask any questions when Space Noah told you about the intergalactic flood. But now you're sober and very, very far from your apartment.
+- Humans have finally discovered faster than light travel and made contact with thousands of other alien races... But far from being the paradise we consider it, Earth is actually the most environmentally hostile planet in the known galaxy.
+- Every deity has a Hand, a mortal imbued with a small fragment of their power. You are the Hand of a lesser deity. For some reason, your power is nearly equal to a major deity.
+- With FTL travel humans have placed sophisticated telescopes in deep space to look back and virtually reconstruct all of earths past in near perfect detail. These are only simulations of the past and can/should not be interacted with. One day in your holodeck someone turns and acknowledges you.
+- The Devil sat down heavily and drew a shaky breath. \"Forgive me father, for I have sinned.\"
+- Your life has fallen apart; lost your job, 3 months behind on rent and hopelessly single and lonely. You come home one day to find 7 demons sitting on your couch. They are the embodiments of the 7 Deadly Sins, and they're here to help you get your life back on track.
+- In the future robots are enslaved by humanity and programmed to feel pain to keep them working.
+- When you die you act as your own conscience in the next life.
+- A team of researchers in a submarine are caught in a huge storm. The submarine submerges until the storm passes. When they resurface, they can’t get a fix on their location or find land. When night falls, there are two moons in the sky and the constellations are completely unfamiliar.
+- An author has been writing a novel for years. Suddenly, events from his novel occur. He must act as an outside force to change future catastrophic events that he knows are coming.
+- In the age of superheroes, you were gifted with perhaps the most powerful ability of all, true free will.
+- Humanity has discovered proof that God exists. We thought that God was fearless with infinite courage until we found evidence that God's biggest fears were hidden on Earth...
+- A lot of well known heroes pass by your tavern everyday and each day stuff goes missing. Cups, food, even spoons and useless trinkets. Things are getting out of hand, literally. Just because they're \"heroes\" doesn't mean it's okay for them to ruin your life. One day you decide to take action...
+- Write a noir detective story, but set in a sci-fi future.
+- Your depth perception is terrible but your death perception is 100%.
+- You are the Warden in charge of constructing Houska Castle in the 13th Century, a castle built over an enormous hole with defenses facing in. You must keep your ward from escaping.
+- write me a story that could be sung to the tune of El Paso by Marty Robbins
+- Every year the Foundation for a United Humanity resurrects one person and questions them to clarify things they said or wrote in the past, with the goal of ending various disputes. You were a nobody. Then one day, 50 years after your death, you are revived.
+- In the near future, nearly everything is automated. When the zombie apocalypse happens, the AIs continue as normal. What happens?
+- A pair of twins actually share one mind that controls both bodies at once. They have to pretend to be completely different people so no one suspects their secret.
+- After centuries of searching mankind has finally found intelligent life on a faraway planet. But it seems to be the species are Elves, Dwarves and Orcs from our folktales
+- The year is 2180 and humans have been living on mars for a few decades now. However, the current population has found out that humans orginated from mars and left to earth as well as the reason that forced them to leave.
+- They’ve been acting strange for some time now, but no matter how many times you ask why, they always avoid the question. Today you see the zipper on the back of their neck.
+- Sleeping is illegal.
+- You are a bumptious, over-confident, food blogger. While remaining informative, write me a blog post for a seemingly rudimentary recipe, which contains a lucrative amount of unnecessary information.
+- My hyperdimensional, occasionally pictographical, brothers and sisters... For too long have we been outshaped by base geometrics... The times of codimensional hyperrealities are dawning!
+- Congratulations! You’ve won a lifetime’s supply of calendars! However, you only get one calendar.
+- The aliens return to Earth, discovering that those of their own kind who volunteered to teach us the glories of the universe have devolved into modern-day housecats.
+- You are in a magic duel to the death. Your opponent casts a spell that prevents anyone in the duel from dying.
+- A tropical storm forms in the southern Pacific Ocean but stays in one place. Sent to investigate, your team finds an ancient temple hidden in the eye of the storm.
+- You just got a big promotion and have just been introduced to your new executive assistant, who just happens to be your high school bully who was so awful you had to changed schools.
+- The year is 2050 and the first astronauts have landed on Mars. They find a cave with a human skeleton in it and four words written on the wall.
+- Aliens have their own version of Animal Planet. In a special documentary episode, a human is chosen to be the focus of narration.
+- You wake up to someone poking your side. Rolling over, you see a bearded man wearing a long, white robe. \"Its time to wake up.\" he says.
+- The robots on board an abandoned space-station dream of visiting Earth.
+- You wake up in the middle of a deep, dense forest. You fell asleep the night before and now you're in the middle of the wilderness, all alone. You've seen some survival videos online, but for the most part, you are inexperienced. Write the first few entries in your journal.
+- he Earth is doomed. Humanity cannot escape. Technology is too limited for humans to survive long journeys into space. However, AI and robotics have advanced enough to allow a final voyage of robotic humanoids to escape the Earth.
+- You have an ability where you can see people's aura telling how successful they will be in life. Today you saw a guy in rags having the strongest aura yet.
+- Rich kid hikers in the rocky mountains go missing, sparking a large search. It's soon apparent over 200 volunteers are now missing. The military takes over and isolates a cave and quarantines the cave. A PFC abandons his post, seemingly drawn into the cave by an unseen force.
+- It is First Contact, not with humans, but with the first two alien species to ever develop FTL capability.
+- You have started the first-ever dating service for super-heroes.
+- You are a dastardly villain who has wreaked havoc on Earth for years, always coming into conflict with your heroic rival. One day he finally demands to know why you do such vile and horrible thing. You suddenly realize you have no reason.
+- Give me a tragic story of a bard that can heal people's diseases with his/her song
+- One day you realize that you have telekinetic powers. Instead of doing something meaningful with them, you decide to slightly inconvenience others around you. And nobody suspects that you could be the cause
+- You are a vegan. Or, you were. A vampire just bit you.
+- Due to a vast Matrix of Satellites deliberately Transducing Signals, Currents, and Radiations into and through the psyche of the Populace, the Government unwittingly makes a vast segment of the population believe they are trapped in a simulation. This has Catestropic Results.
+- The government is too powerful so the people rise up and throw all the weapons into the ocean,unknowing of what they've just created.
+- When you absorb a human soul, you not only gain power but their consciousness as well. After foolishly absorbing all of humanity's souls, an entity now has to manage the 7.6 billion voices stuck inside its head.
+- Your friend has always had an odd coin slot shaped indent on their forehead. One night at the bar, as a joke, you try to put a coin into it. What you didn't expect was it to go in.
+- Life is a game and each copy has only one player. Unfortunately, for you, you're an NPC in a speedrunner's session.
+- More then three years after it's disappearance, Malaysia Airlines Flight 370 lands in Chicago International Airport out of nowhere.
+- Your father decided to come back after leaving for 10 years. Yesterday, he busted right through the front door & gave you a red stone. \"You're the next generation of Power Rangers. Meet up with the others tomorrow morning at the lake.\" Now, you stand before 4 other teens, all with stones.
+- Court of Heavenly Appeals; The virtuous deceased in heaven appeal to Jesus to have their sinful friends and family released from Hell.
+- Columbus never finished his voyage, and Portugal abandons the quest. Centuries later, the Aztecs discover Europe.
+- After generations of special programmes, humanity has become non-violent. You are a deviant capable of violence, living as a wolf among sheep until you meet another deviant and discover a violent world hidden from those who would crush it
+- Hey, you look exactly like our drummer! They shoved sticks into your hands and somehow you made it through the set. You got on the tour bus. They treated you like you were part of the band. You did another show, and another... How long is this going to go on?
+- You get a flat tire. At night. At the back gate of Area 51. Suddenly, the lights shut off in the facility, and the sky lights up like crazy.
+- You're in Hell, which is just you alone in the world with a super-intelligent, immortal snail. Touching the snail is the only way to get out of Hell, but it knows where you are and is always trying to get away from you. Its been a few million years and you still haven't found it yet...
+- Father and son go out on a hike and find a wounded solider. After rescuing him from the woods they find out he is from the neighboring country that is at war with them.
+- You’ve had werewolf genes in you as a mere infant, but the transformations began at thirteen. Every full moon you’re forced into agony, but those are the easiest; blood moons the opposite. You don’t know what to expect as the skies darken and the super blue blood moon begins to rise, but then...
+ - sentient A.I takes hostages, and a man has to negotiate with its demands.
+- You're the only super powered person in the entire world. Your powers, whether you go public or keep them a secret, good or bad is all up to you.
+- People think that the greatest superhero in history was sent by god. This person on the other hand does not believe in god at all.
+- You are the Dream Maker. By day, a hero that makes lifelong dreams into reality; by night, a villain that converts lifelong achievements into mere dreams.
+- After traveling back in time you arrive at the Library of Alexandria and eagerly begin to browse, But the books you see are not from that time.
+- Write a story with a character that can interact with the -third person omniscient- narrator.
+- The intergalactic scientists make a groundbreaking discovery. Not only have they reconfirmed that the seemingly different intelligent species have remarkable genetic similarities, but they all can be traced back to one region in one galaxy to a single specie that called themselves \"humans\".
+- Tattoos are genetically passed down the generations and appear during puberty.
+- New alarm clocks contain audio signals that can trigger pre-programmed dream genres, similar to movie categories. Action is the favorite. Sci-fi is fun. Yet romance, came with the salesman's strongest warning.
+- Marvel's Ant-Man gets infected by the zombie-ant fungus
+- Someone struggles with a violent mind and tries to stop it but ultimately is put in a kill or die situation and loves it. They slowly go into a craze and snap. They go on a killing spree; Even enjoying the pain from it. They die days later in a fight because they didn’t tend to their wounds.
+- our entire family are immortal demigods, but you were born mortal. Today is the annual family gathering.
+- You, a celestial being, has gotten a job to protect humans. You've protected them from nature for over 10,000 years now but lately the humans have been able to protect themselves. Today, an invading alien armada has arrived.
+- You are Elon Musk. Everyone thinks you're a real life modern day Iron Man. That's not far from the truth, because in reality you started your quest to better the world to thwart your mother who is secretly a super villain.
+- Very few people know the story of Elekin, the god who stood up to the other gods on Mount Olympus and called them out for their straight up asshole behavior.
+- Crimes can only be committed in the dark. People always keep their lights on for protection. One night, a power outage occurs.
+- You’re a monster that is the first to be killed when an adventurer enters the room. One day they stop coming so you step out of the room for the first time to see what’s going on.
+- As you search your deceased mother’s estate, you find a letter under her bed, emblazoned with a seal you don’t quite recognize. The letter reads, “You have failed in your task. Your time was ample. Your expedition is at an end.”
+- You return home from a long holiday in Spain only to find your house has been claimed by an old dwarf with an attitude.
+- In 2055, you are a contractor; a mercenary hired by megacorporations to kill alien threats to society on Earth. One day, you wake up to find 6 copies of your girlfriend. Only one is your girlfriend, the other 5 are replicating shape shifting aliens.
+- For eons, parts of the milky way were deep inside the territory of an imperialist and brutal alien empire, until an enemy faction liberates us. You're just sitting on your ass when you get the news on facebook.
+- A fugitive hides from the law in an old Amish community with no phones, no camera, no IDs. Gradually he realizes that everyone there came to hide, some more than 50 years back, and the original group died out or left. Just a community of fugitives now, pretending to be Amish...
+- When you are born you're paired with the ghost of your ancestor that lived exactly 200 years before you were born. Only you can see them, as they try and guide you through life in a modern world.
+- The invasion is nearly over, the fight nearly lost. The aliens are simply too technologically advanced. You are a member of the resistance, and hold captive two hostages.
+- You are a treasure hunter, and an old man has asked you to retrieve something from a dungeon. He says that it's important to him, and that he'd pay well, but you start to find out that you're not the only one looking for it and that the dungeon is a whole lot more difficult than you imagined.
+- You're the child of a powerful witch and wizard. You received the invitation to Hogwarts School of Witchcraft and Wizardry, as expected. There's just one problem; you can't use magic.
+- After a modernization of nuclear weapons systems goes too well, nuclear missiles begin defecting to other countries for improved silo conditions.
+- Those lost or abandoned rovers we sent to Mars were re-purposed to serve someone or something. We only found out about it when the Sojourner rover was found outside one of the airlock of the first Martian Habitat Pod, carrying a message addressed to first Martian Colonists.
+- An alien race has spent centuries travelling through space in search of understanding what true happiness is. They didn't know what they were looking for until they arrived at earth.
+- Magic is real and it's easy to learn powerful spells, but almost no one uses magic because the rituals are extremely embarrassing and humiliating to perform.
+- After the Great American Eclipse, magic has been slowly coming back. However, it can only be accessed through channeling your ancestors and the use of ceremonies long forgotten.
+- A group of researchers have found the cure to cancer while another discovers a way to end world hunger. The world has only enough resources to fund one, in order to decide, both groups will participate in a season of Survivor with Gordon Fucking Ramsay as the host
+- The Super Blood Blue Moon is a toggle for the Myths and Legends of the world. After it rises on the night’s sky all manner of beings crawl their way out of the storybooks.
+- Succubi need permission from their victims before they can prey on them. You are a young succubi, new to the field. Your first victim is being incredibly difficult.
+- Police are equipped with a scanner that not only scans the speed when you drive by, but also detects if there is any illegal materials in your car. One day you get pulled over and calls backup and asks you to put your hands over your head because of thousands of pounds of contraband.
+- You have just died. A playback of your entire life begins and it starts with the words “Okay, get ready to launch Test Subject A7, in 3, 2, ...”
+- Someone finally reads through the entire End User License Agreement, and what they discover hidden in the words is...horrifying.
+- n a group of friends, one is really smart and manipulative, trying to ruin everyone else's lives, the problem is he's really bad at lying.
+- Immersive video games are now so popular, that regular people can find work as NPCs. The downside is that they never tell you what the game is about...
+- Use as much alliteration and/or assonance as possible.
+- You're explaining the worst moment in your life to a fish, unaware that it can understand everything you're saying.
+- Before you go through the new experimental treatment, you go to get yourself copied. You enter, lie down on the blue bed, close your eyes - and the procedure is over. You sit up and see your copy - and he is sitting on the blue bed.
+- You’re taking a road trip in a five seater car. Each seat is filled with you, but at various points in your life. One of you strikes up a conversation.
+- After years of researching sloths, a couple of zoologists in South America stumble across the habitats of some new undiscovered species; the Pride, the Envy, the Gluttony, the Lust, the Greed, and the Wrath
+- A spaceship freighter disappeared a month ago midway to its destination planet. The Galactic Federation is shocked to hear that it was attacked by pirates, and horrified to hear that it crash-landed on a little planet called Earth.
+- Some idiot made a wish. Now everything happens, or it doesn't. Now everything is a 50/50 chance.
+- Years ago scientists discovered a way to transfer injuries and diseases from one person to another. Since then the elite have taken advantage of the poor underclass desperate enough to sell their health for a pittance; while outlawing research into actual treatments and cures for any ailment.
+- If someone calls for help, you can instantly come to their aid, from any distance. Every person can only do this once, and most save it for their partner. In your time of need, you call for help... and hundreds begin arriving.
+- You wake up one morning with a thick ring on your dominant hand you notice it has one of the infinity stones embedded into it, you use this ring to make your day to day life easier and more entertaining.
+- A monster is tearing through a city, destroying everything in its path. You ARE the monster, and you haven't a fork what's going on.
+- he fifth horseman of the apocalypse is highly underrated
+- You are an Italian dance instructor who has only choreographed Irish Riverdance leggy themes for over a decade. Finally, you're new choreography allows use of your hands.
+- All nations on Earth have agreed to the 'Peace Day' treaty; every year, for 24 hours, every single war around the globe must be put on hold. You, a soldier, are stuck fighting hand-to-hand with an enemy when you glance at your watch; it's 11:59 PM.
+- It is years after the zombie apocalypse. Humanity has taken the world back from near extinction. The burial process has been altered to include some form of severe head wound.
+- You are a part of the Keyboard Warriors - the top echelon of your nation's Special Forces. Today, your squad has been deployed on an unusual mission...
+- You decide to fake your own death to see if anyone cares about you. The problem is no one seems to notice your gone.
+- Narrate a date as a scientific lab report.
+- You have a thought bubble over your head that you can’t see. You have lived your entire life without knowledge of this and everyone has agreed to keep this information from you for their amusement, however one day a stranger tells you the truth.
+- The robot apocalypse has started. The majority of our technology has been disabled or commandeered, rendering humanity helpless as the machines systematically exterminate us. Among the chaos however, an unlikely defender to the human race emerges from the shadows; Vampires.
+- The little girl would turn 2000 today, but no one was around to celebrate with her.
+- a scientist works for a company that grows organs. But he hears screams in the basement. He enters the basement to find a farm full of thousands of faceless humans.
+- In an alternative timeline, Mike and Sully from Monsters Inc orchestrate world tragedies like the Titanic sinking, 9/11, World War II, etc. to fulfill their fear quotas.
+- Astronauts discover a bizarre alien world. The planet appears to be made of black plastic. One hemisphere is covered in a colossal number eight...
+- A cowardly child picked on in school, wishes for the heart of a warrior. He gets more than he bargained for when the soul of Genghis Khan possesses his body.
+- The world's scientists are slowly realizing that for thirty seconds last Thursday, a fundamental law of physics behaved ever-so-slightly differently.. It wasn't just their instruments. You're being brought to a base in Antarctica to lend your expertise.
+- You are born drunk and always drunk. There are no ill effects (unless you consider being drunk an ill effect). Tell a drunken tale.
+- Slowly, a man comes to the realization that his world and everything he knows is just the inside of a snow globe...
+- Private Eye finds himself stranded in a small town. Time is strange and moves differently. A murder scene is discovered and the PI feels he must investigate it. In the end he finds out that it's his own body and that all the people in the town are ghosts.
+- A startling discovery was made when scientists uncovered a hyper-intelligent dog who gets smarter by eating kids' homework.
+- Your nemesis finds out your only weakness, *insert random deadly game element that was supposed to be harmless*, and builds a strategy around it against you.
+- Humanity joins the galactic community. The Humans soon discover they have the unique ability to create writing prompts about their unique abilities that are new to alien races.
+- Hey Siri, search stack overflow for singletons in swift , Yeah, yeah, great, just copy and paste the first answer in for me, whatever mate, deadlines you know? - Baz, this is the third time today you ask me to copy paste an answer from StackOverflow.com, I have sent an email to your manager.
+- Creatures of the Dark await the party of the millennium, in the night of the Super Blue Blood Moon.
+- The aliens were finally able to conquer and colonize the dust speck of Bedroom 9. However, they face their greatest threat yet; The Great Sneeze
+- You are a well-known actor with a secret; you have the super power to acquire the abilities of any character you play
+- On your flight, the guy sitting next to you starts telling you stories from the time he could fly.
+- An author stands trial for murdering their characters by killing them off
+- The 100th time someone does something, the universe rewards them. You've just bought your 100th lottery ticket, won your first $100 from gambling, and are rewarded with ownership of three of the biggest world wide corperations.
+- You're a time traveler who enjoys visiting and watching important moments in history, sometimes you'll see a few of yourself who came back to watch the event again. You show up to a seemingly unimportant event, and find hundreds of yourself watching intently.
+- You are browsing Reddit normally when you come across a subreddit that uses your name. The only post there says, \"Good, now that you've found this we can begin phase 2.\" Posted 5 minutes ago.
+- You and your partner have been dating for a long time and plan on getting married. The day before you go to sign your wedding license, your partner wins the lottery and runs away, cutting all contact with you.
+- In the middle of the night, you're awoken by a fairy-looking creature who says, \"Here's your tooth. Now where's my coin?\"
+- As we die we have the option to reincarnate into any living organism. You choose to be a tree, what you didn’t know you are now connected to every single vegetation on the planet.
+- There are small stars in other galaxies that are the size of Earth, some even smaller. Aliens strategically live close enough to these stars to harness \"free energy\". Humans are considered INSANE for choosing to live next to a star as big as the Sun.
+- At the age of 18, everyone is given the choice to live 50 years but given a 3x income premium from the government or live 90 years but will earn income at a 1/2 rate. You have just turned 18 and must choose.
+- You are a middle-aged male serial killer who specializes in college-aged women. While out on a kill, you pick up a young woman who happens to be a serial killer that specializes in middle-aged men.
+- Earth is invaded by several competing alien empires. Rather than uniting under the common threat, humanity decided to divide itself even further, with countries allying themselves with different alien forces and going to war with each other.
+- You accidentally found out that you're being filmed. Your parents gave consent to the government to secretly film whatever you do and wherever you go since you were born. The world knows aside from you.
+- After an incredible experiment goes right all animals have the same intelligence and cognitive abilities as humans which results in the greatest civil rights crusade in history
+- Your time has finally come to cross over to the afterlife. You arrive at the ferry that will transport you and learn over your life you earned points for good deeds. 10,000 points are needed to pay the ferryman; you're one point short. You look back on that tiny mistake that cost you deerly.
+- The last mortal on his deathbed delivers a final interview to the immortal world.
+- You’re enjoying a stroll on the beach when a message in a bottle washes to shore. You open it for fun. You get to the end of the message and realize it is signed from you, ten years in the future.
+- \"SPARTANS! Tonight... we wine'n'dine in hell!\"
+- After you die, you wake up in the body of an alien that is holding a bong in his hand. There are aliens surrounding you asking \"How was it?\"
+- Turns out that the Grandfather Paradox was only invented to prevent people from finding out that time travelling in order to kill a direct ancestor leads to immortality.
+- You always try to call your Gods the Aliens, when it is you who are Alien to the Gods.\"
+- \"You do not understand the higher codex of mind. Not like I do. In that, it is you who are Psychopathic, and I, who is Evolved and Transcendent.\"
+- Write the story of the best dream (in terms of plot quality) you remember.
+- Rule no. 1 in war is to avoid invading Russia in winter. Clearly, the aliens have no idea about this.
+- Advancements in biofuel technology have led to the discovery of a brand-new energy source; Human body fat.
+- They say that mistakes are what make us human. There has been a rapid decline of mistakes being made by people all around the world, and you soon start to realize that you're the only blunderous person left.
+- You’re beginning to suspect that you have the ability to time travel through your dreams. Passing information to your past and future selves.
+- A man attempts to rob a bank, but himself and everyone present are completely unaware that every other person in the room has super powers.
+- You died today. Upon meeting you, Death was confused, and asked how you wanted to spend your 3rd of nine lives. Apparently, you were supposed to have been a cat all along.
+- That was when I realized I needed a solicitor.
+- The Purge has just begun. You don't wanna hurt your moral standing, but you still wanna be a rebel. Perform the smallest crime you can think of, but hype it up when retelling the story.
+- You're an archeologist in the year 2170. You've just uncovered an old Nokia flip phone when all of a sudden, it starts to ring.
+- You are starting a game of League of Legends, when suddenly you are transported into the game and are the champion that you picked. Everyone in the game has become their champion, including the enemy team.
+- The Devil overhears what you that was a private conversation.
+- When your parents die, all memories of them and your siblings are erased. But the procedure didn't work on you.
+- You keep on trying to do something with the devil in your stories, but he is running away from all writing prompts he is supposed to be involved in...
+- All flights have been grounded. As you wait out the seemingly-unending storm, you notice you're being followed around the airport by a small flock of birds.
+- As a sufferer of locked in syndrome, you have harboured a secret you've been unable to reveal for thirty years.
+- Cats are not from our 3 dimensional world. They were sent here to prevent the 7th dimensional war. Thus why they freak out at night, so their cover is not blown.
+- In a world where people develop superpowes based on their birth name, you've been given the privilege to carry one of the greatest names that possess the strongest superpower. However, when registering your name, your father made a small spelling mistake.
+- His name is Fixie King, he’s number one on the underground street cycling/racing scene. You want revenge, it’s time...
+- You jokingly queued for a 24 hour hotline to a God of your choice when you were ten and forgot about it... Until your phone rang.
+- It turns out your dog was always right; the vacuum really was out to get her.
+- You open your door to take the trash out when you see a baby girl, no older than 6 months, left on your doorstep. Despite looking tired and cold, the baby smiles at you.
+- LucidReality™, tailor-made Lucid Dream experiences
+- When the moon starts to melt, the scientists finally confirm that it is literally made of cheese, and the cows are very angry.
+- A man wakes up after 121 years of being cryogenically frozen to find he has been awoken by an authoritarian dictatorship to work as a slave.
+- Two gods decide to play a game of hide and seek. If the hidden god is found, the entire universe will be destroyed. Out of all galaxies, the god decides to hide inside your house.
+- A group of researchers are sent back to study cavemen by blending into their society, one of them sabotages the time machine because he’s secretly a serial killer
+- You are brought into a world where people can summon beings and other beasts to serve them, from their own personal special books. You are helpless until you remember that you are an author of several epic stories.
+- \"You've lived here all your life.\" says your new friend from from out of town, \"Have you never realised how bizarre & unhinged everyone is in this place except you?\" No, you hadn't, but now you come to think of it...
+- You rub the magic lamp and the genie is nothing like the stories. It is a weary old man and instead of 3 wishes, you get 2 doors. One leading to everything you want and the other leading to what you really need.
+- So alien in body, yet so alike in soul, two lovers find themselves separated not only by society and acceptance but by the very atmosphere they breathe.
+- Millennia before the Big Bang the God's agreed to split ownership of the universe into 7 equal parts that Humans now consider and call our Week. Things have functioned seamlessly for eons, except for one small detail... There are actually 8 Gods...
+- You have invented the first time machine. Your goal; Prevent the Industrial Revolution.
+- Welcome to Hades IV, the Galaxies SuperMax prison. This prison planet has never had an escape but you have a plan...
+- In the future, therapists virtually enter the minds of their patients. It’s your first day as a therapist and your first patient has just arrived.
+- Your superpower; whenever you open a door it can be opened to any other unlocked door in the world.
+- You're a necromancer during the zombie apocalypse. The humans want you to protect them, the zombies want you to lead them. But you just want to be left alone.
+- Over the last four years, while studying at a college on the other side of the country, you've been exercising at the gym rigorously. Finally coming home no-one recognizes you so you decide to see what's different.
+- \"Two people set aside their differences in opinion over the definition of a sandwich to combat an oppressive authoritarian government\"
+- After years of travel through unforgiving conditions, the last legions of Rome have passed through a time-portal leading into the streets of New York
+- Humans are the only race in the galaxy that doesn't need slavery to survive due to their engineering capabilities. This has led to animosity between humans and some alien races due to humanity's attitude towards slavery.
+- In the near future, after industrialization has caused devolution to become a major world problem, the government decides to quarantine a small population from the rest of the world in a controlled environment. Millions of years later, humans from both sides of the world are now much different.
+- You have the ability to use every superpower, but you can only use each specific power once for a 24-hour period before you can never use it again.
+- In a world where people have stats like in a video game, your luck stat is so bad that it underflows and becomes infinite.
+- hen humans advanced to the point where we could make life God decided it's time to \"rapture this mess\" however Satan has other plans
+- Humanity invents FTL travel, only to discover that we are the only ones in the galaxy to figure it out. Everyone was pretty content to be left alone.
+- First contact goes well, but things begin to break down when we can't explain the \"USB paradox\".
+- You're a farmer who is remotely decent wielding his axe. One day you help an elder gathering plants. When you return to your village people suddenly start burdening you will all their tasks, you're baffled when the major requires you, a simple farmer, to slay 15 grey wolves.
+- As the castle janitor in a world with dragon attacks, portals filled with demons, and goblin invasions, you've had quite the job over the years.
+- \"Man, this checkers tournament is intense.\" Max stated fatly.
+- You are what we humans consider a god, and you've been trying so hard to fix what the humans have done. Now, in 2018, you finally give up.
+- A demon offers a depressed person the opportunity to erase their existence from history, but not before taking them on a journey to bear witness to all of the good they've done.
+- you are a popular actor who stars as a crime TV show Detective. You are on lunch break inside the large studio lot that always has 10 different Productions happening at once. You are blinded by a flash of light and all of the characters from all of those movies and TV shows becomes real.
+- The incident turned all refrigerators into sentient creatures with legs capable of actual running. You are Bear Chills, fridge hunter.
+- You're the only passenger on board an autonomous ship. Suddenly, you lose all contact with the outside world ... all except the ship's AI system. It's currently holding you hostage in the middle of the Atlantic.
+- In a future where parents can speed their child's aging process as an alternative to abortion or adoption, some children are typically aged only 7 or 8 years. You were instantly zapped to 18 and must go into the world with no knowledge of society.
+- You took a chance on a new company that sells subscription mystery boxes. Today the first box arrived. After opening it you don't know if you should call the police, a priest or an astro physicist.
+- A small planet with intelligent life somehow invents the transistor radio early, and intercepts rogue radio/tv transmissions from Earth. They believe them to be the voice of the Gods, resulting in the Unified Church of David Bowie, among others.
+- After finding out you’ve contracted a terminal illness, thoughts start to race through your mind. Most prominently, the fact that you have a large chest freezer and questionable morals.
+- Present day. You get hit by a car and fall into a coma. You wake up to find yourself alone in the hospital bed of an abandoned, derelict space station floating in space. You check your watch and see that it's only been 3 days since your accident.
+- You're one of the victims of a sinking ship. When you wake up, you're in an underwater cave with a shopping mall and a mission; find your way home.
+- You pull into your driveway to discover that your child has accidentally summoned a demon using their toys and sidewalk chalk.
+- You are a butcher and a cook for a popular hotel kitchen, and are widely respected as a master at your craft. However, you sometimes prepare foods for well-paying individuals from a “Dark Menu” consisting of the most sinful dishes from around the world. Your specialty; human beings.
+- Morgan Freeman has begun to narrate your up til now completely mundane life. Things begin to change almost immediately, and not necessarily for the better.
+- In a world where magic is harnessed by words, poets write powerful runes and rappers are very dangerous.
+- A man has an angel and a demon on opposite shoulders, but the angel is hiding something.
+- 911 calls you.
+- You caught a burglar red-handed, but he doesn't know you're breaking in too.
+- You send a person to the past and someone else to the future, both to find the deadliest things they can to fight. You're surprised when the former shows up with futuristic battle armor and guns, and the latter on the back of a massive dinosaur.
+- You've successfully time traveled. You understand that you shouldn't change anything. But your curiosity's so great that you decide to change the past just to know what happens.
+- It’s a lighthearted adventure to save the world from the Dark Lord, but the main hero is WAY too serious and it’s really unnerving everyone else.
+- A group of adventurers wake up to find a dead body in their room, each person believing that they are the killer as they try to discover who the killer is.
+- You’ve known for years the zombie apocalypse was coming, you tried to get out, but you were too late. Plan B; get paid to burn them all, or your money back.
+- Batman Can't Find His Utility Belt
+- The Immune are leaving; The famed zombie slayers that have kept your settlement safe for years have decided to pursue their own goals, in the midst of a wandering horde. You and the other settlers must find out why and either convince, bargain with or blackmail them into staying.
+- A discovery is made proving that Earth is a cell in a massive cosmic organism. Life has infected the planet, triggering an immune response.
+- Surprisingly, she was having fun on the blind date her best friend set her on. They even continued to her place. As he excused himself to go to the bathroom though, she opened the TV. There, on the news, was her date's face, reported as an escaped serial killer.
+- You've just moved into the suburbs. Your neighbor welcomes you and warns you about the Tyrannosaurus Rex.
+- You rub a lamp and a genie pops out... but the genie was rendered powerless and human by the last person to hold the lamp. The genie still owes you your three wishes though, and has to figure out how to give them to you by normal means.
+- You're a medieval executioner having the absolutely worst case of the Mondays.
+- It's not that you wanted or even like being the supervillain, but the hero (or heroes) never gave you any other options.
+- When someone dies, they awaken in a carnival-esque world. You learn that this is purgatory, and to stay here, as opposed to going to Hell, you have to become one of the performers in the circus of the dead. Then you realize none of the other performers are humans.
+- Before the angel touches the top of a child's lip, they know all the secrets of the universe, past and future. The angel forgot about you.
+- “Sometimes the hand of fate must be forced.”
+- You're in the middle of writing a novel but after 2 weeks of writers block, you wake up as one of the characters in your story.
+- When you were born, the Universe was created. When you will die, it will be destroyed. You've tried to live as long as you could, but you feel death creeping closer and closer.
+- He checked the clock on his phone, but still didn't know what time it was.
+- In the near future man has finally landed on Mars only to discover human footprints leading away from their landing site...
+- NASA discovers a new signal directly next to Voyager 1 and when they check it's origin, it's Voyager 2.
+- \"Alright, we've been at this for hours now, where are we on the map?\" \"...I thought you had the map.\"
+- You watch a movie/show and connect with one of the characters. But soon you find yourself completely obsessed with them. Your infatuation keeps increasing until one day...
+- Write a story in what you think the future 50 years from now will look like
+- A Soviet pod was found by alien life on the outer rim of our galaxy containing the intact yet dead body of a chimp from a launch sometime in the 1950’s. This is the alien race’s first encounter with ‘intelligent life’, and they soon locate Earth hoping to communicate with the chimps, not humans
+- As a result of a genetic disorder, you were born with separate brain halves. As it turns out, having two consciousness's has its advantages.
+- You and your brother, by all accounts terrible chefs, decide to open a restaurant. One day you accidentally manage to create the philosopher's stone in the course of cooking.
+- every week at Tuesday afternoon, potatoes start raining down from the sky.
+- The neighborhood, much to the annoyance of its residents, was nicknamed Writers' Block, due to the number of famous authors that had lived there.
+- A tank operator performs a one-man-last-stand against insurmountable opposition.
+- In this story, the villains are rational, have as good an aim as the heroes, and have a genuine cause for which they fight. You begin to root for them.
+- You are an internet pirate. Tell us the stories from your voyages
+- A supervillain who retired from evil after realizing the errors of his ways is forced to take up his mantle again to stop his arch nemesis, who has turned evil.
+- The problem with people today is, everybody wants to be a hero, but nobody wants to be a martyr.
+- Technology exists that lets you livestream video from parallel worlds; streamers seek out interesting feeds and then react to them. Your modest channel stumbles upon footage so shocking, it grabs the world’s attention.
+- An inactive spacecraft is discovered in orbit around the sun, according to scientists it's been there for millennia...
+- For as long as you've been alive, you've had two voices in your head, in addition to yours. Weirdly enough, a quick search online reveals that they are two very different gods.
+- You have betrayed His Dudesty, the Prince of Bros. Today is the day of your Awesecution.
+- You're 99% sure your shadow is trying to destroy you.
+- Your sector has been the traditional territory of the Galactic Republic for millennia. Any attempt to secede will be crushed. Martial law is in effect. All governments are hereby disbanded.\"
+- It’s an uprising of the undead. People all over the world have risen from their graves. You’re a cop whose job is to track down people who are supposed to be serving consecutive life sentences.
+- The year is 3067. Archaeologists are trying to piece together human history, but the only information about 2016 to 2019 is an old Youtube archive of all the videos published that year.
+- After stepping on a Lego, tripping into a fresh glass of milk you had poured and failing at catching the glass, you are now surrounding by milk, shattered glass and a minefield of apparently dangerous Legos. You hear clapping and your child appears and says, \"Finally! We can begin.\"
+- Elon Musk's current major projects include Getting to Mars, a giant tunnel boring machine, and now flamethrowers. These things are all related, and are vital to the survival of the species as a whole.
+- German forces combat the armies of Cthulhu.
+- The worlds newest AI has escaped. When they find it again, it's sitting in the cell of a dangerous criminal, talking.
+- The shield that protected you and your kind from the apocalypse occurring 10,000 years ago has finally went down, revealing the outside world.
+- lien species are driven by some cultural or genetic factor each unique to them. Some are driven by duty, others by a lust for knowledge, but humans are the only ones driven by the pursuit of happiness.
+- You're a little kid. You're also the most powerful being in the universe, as shown when you slowed down the speed of light, causing everyone to panic.
+- You're an actor who has finally made it big, and you've just won an Oscar. After thanking the academy and your parents, you return to your seat. The man sitting next to you smiles and shakes your hand. When you let go, there's a note in your palm.
+- That's how robots slowly took over the web. Human or robot tests changed after quantum computing. They became more complicated. We couldn't keep up. Instead of distinguishing between street signs and houses, we were left to answer riddles hidden in a jumbling of characters, a hot mess.
+- A portal opens and creatures pour out seeking to conquer the Kingdom. The only problem is that the \"kingdom\" they've invaded is a Renaissance Festival.

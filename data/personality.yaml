@@ -1,0 +1,218 @@
+pos:
+- trait: adventurous
+  desc:
+    - You are willing to take risks. You like to do things other people see as wreckless. You live for the adrenaline rush.
+    - You like taking risks for the thrill of rushing blood. No care for the odds against your chances of success. You're always willing to give it a try.
+- trait: audacious
+  desc:
+    - You like to try out new methods, ideas, and experiences. You enjoying the thrill of risk and enjoy high-risk activities.
+- trait: daring
+  desc:
+    - You're always on the move; exploring, then, moving on; not worrying about finding work; living by your talents, skills, ingenuity, and wits.
+    - Testing your luck in dangerous or even bad situations for the sake of having a good story to tell. A few broken bones or cuts and bruises do not compare to seeing the adoration in people's eyes.
+- trait: affable
+  desc:
+    - You're friendly, good-natured, or easy to talk to. People find comfort in being around you.
+    - Quite the social butterfly you are as you chatter with those from many walks of life. Your tone puts everyone to ease and comfort to add to your outgoing charm.
+- trait: conscientious
+  desc:
+    - You wish to do what is right, especially to do your work and duty well and thoroughly.
+    - You're aware of your moral compass at all times and always try to do what is Right in a world of Wrongs. Not one to take candy from a baby, you are more willing to walk the elderly across a busy street.
+- trait: cultured
+  desc:
+    - You have refined taste and manners and good education.
+    - You were raised with good manners and etiquette that sets you apart from those who prefer a more crude lifestyle. Treating all with the greatest dignity to show that you are not a brute.
+- trait: dependable
+  desc:
+    - You are trustworthy and reliable.
+    - You go to great lengths to fulfill a promise made onto others. Willing to almost do anything to make sure they are happy and content.
+- trait: discreet
+  desc:
+    - You are careful and circumspect in your speech or actions, especially in order to avoid causing offense or to gain an advantage.
+    - Cautious, holding your tongue on sensitive matters, you would prefer to say less to mean more for fear of embarrassment or emotional harm.
+- trait: fair
+  desc:
+    - You don't cheat or try to gain an unfair advantage and stay in accordance with the rules.
+- trait: fearless
+  desc:
+    - You are ready to face and endure danger or pain.
+- trait: observant
+  desc:
+    - You are quick to notice things.
+- trait: impartial
+  desc:
+    - You treat all rivals or disputants equally; fair and just.
+- trait: independent
+  desc:
+    - You are free from outside control; not depending on another's authority.
+- trait: optimistic
+  desc:
+    - You are hopeful and confident about the future.
+- trait: intelligent
+  desc:
+    - You have the capacity to acquire and apply knowledge easily and act purposefully, solve problems, and adapt to new situations.
+- trait: keen
+  desc:
+    - You show eagerness, enthusiasm and are quick to understand new things.
+- trait: gregarious
+  desc:
+    - You are fond of company and very sociable.
+- trait: persistent
+  desc:
+    - You persevere in spite of fatigue or frustration and don't give up easily no matter the odds.
+- trait: capable
+  desc:
+    - You have the ability, fitness, and quality necessary to do or achieve what you put your mind to.
+- trait: charming
+  desc:
+    - You are pleasant and have compelling attractiveness and charm that can inspire devotion in others.
+- trait: confident
+  desc:
+    - You are sure in your own abilities to face whatever challenge faces you.
+- trait: dutiful
+  desc:
+    - You conscientiously and obediently fulfill your duty.
+- trait: encouraging
+  desc:
+    - You are positive and give hope to your fellow peers.
+- trait: reliable
+  desc:
+    - You are consistently good in quality and performance. You are able to be easily trusted.
+- trait: exuberant
+  desc:
+    - You are filled by a lively energy and excitement that spreads to everyone around you.
+- trait: helpful
+  desc:
+    - You are ready to help another at the drop of a dime.
+- trait: humble
+  desc:
+    - You show a modest or low estimate of your own importance. You downplay your accomplishments and attempt to bring the spotlight off of you.
+- trait: imaginative
+  desc:
+    - You show a knack for creativity and inventiveness that comes easy to you.
+- trait: meticulous
+  desc:
+    - You show a great attention to detail. You're very careful and precise.
+- trait: trusting
+  desc:
+    - You tend to have a belief in a person's honesty or sincerity. You're not immediately suspicious and take people's word at face-value.
+- trait: valiant
+  desc:
+    - You show courage or determination even in the face of adversity and danger that presents itself.
+
+
+
+
+
+
+moodpos:
+- trait: accepted
+  desc:
+    - you feel generally approved by your peers. People seems to like you even when you're in a bad mood.
+- trait: blissful
+  desc:
+    - You are generally extremely happy and full of joy. You seem to always be in a positive mood in spite of negative things in your life.
+- trait: calm
+  desc:
+    - you are someone who is peaceful and free from stress or worries. Sure you get worried about people close to you; but everything always works out in the end right?.
+- trait: cheerful
+  desc:
+    - You're always full of joy, humor or good spirits. Nothing seems to get you down.
+- trait: content
+  desc:
+    - You're satisfied with what you have. You have little desire to go out and actively seek better things because if it's not broken, don't fix it. Right?.
+- trait: dreamy
+  desc:
+    - You're fond of daydreaming. You get lost in your thoughts easily and nothing seems imposible when you're thinking about it, no matter how impractical it really is.
+- trait: ecstatic
+  desc:
+    - You're always in a state of great delight and joy. You always have a smile on your face and a skip in your step.
+- trait: energetic
+  desc:
+    - You're full of energy and always ready to do something new and exciting. You live for the action of life and meet it head-on with enthusiasm.
+- trait: flirty
+  desc:
+    - You see the beauty in people and sometimes just can't help yourself. You've got to say something to them and let your feels about them known. You try to come off as sincere and affectionate; but sometimes you seem just a little bit creepy.
+- trait: giddy
+  desc:
+    - You can hardly contain yourself at times. Other times you're just so excited for what's happening or what's about to happen. You have a tiny smile on your face at all times because life is just so fun.
+- trait: good
+  desc:
+    - You feel cheerful in general and don't really get sad all that often.
+- trait: happy
+  desc:
+    - you typically have a feeling of great pleasure, contentment, and joy. Life is fun and full of surprises. So what if you feel sad sometimes? That's just the next step in feeling happy!.
+- trait: joyful
+  desc:
+    - You're always in a good mood. When things aren't going the way you planned you always find that silver lining. It's hard to rain on your parade.
+- trait: loving
+  desc:
+    - Everything you do is motivated my love and affection. You're sweet and kind and others see you as somewhat of a parental figure. You care deeply about others and form bonds easily.
+- trait: mellow
+  desc:
+    - you're calm, smooth and free from harshness. You don't get riled up easily and when you do you're quick to become level headed and calm again.
+- trait: optimistic
+  desc:
+    - You're always positive and hopeful about the future. You see the potential greatness in everything you do and everything that could be done.
+- trait: peaceful
+  desc:
+    - You're generally calm, non-violent, and peacful. When people anger you you tend totry to talk things out and see things their way. You rarely ever raise your voice to prove your point.
+- trait: silly
+  desc:
+    - You enjoy being silly and goofy. You love being able to keep a smile on everyone’s face, and are not afraid to show your goofy side. You strive to be the center of attention and enjoy every minute of it.
+- trait: sympathetic
+  desc:
+    - You're motivated by compassion. You're tender, considerate and helpful  in nature.
+
+moodneg:
+- trait: aggressive
+  desc:
+    - You're generally not in a good mood and easily provoked. You're ready for a fight at a moment's notice.
+- trait: angry
+  desc:
+    - You're generally in a bad mood. Not much makes you happy and the few things that do you keep close to you. It's not anyone or anything in specific that makes you this way.. you're just an angry person.
+- trait: annoyed
+  desc:
+    - You're constantly troubled persistently, especially with petty annoyances. Small things get on your nerves easily and big things drive you crazy. The world just annoys you in general.
+- trait: apathetic
+  desc:
+    - you show little to no emotion. When you're interested in something people can't really tell. You're generally aloof about things around you and don't seem to pay anything any mind.
+- trait: cranky
+  desc:
+    - You're easily annoyed, irritable, and testy. You don't get furious or outraged, you're just easier than usual to annoy. Things get on your nerves more quickly than they do for other people.
+- trait: depressed
+  desc:
+    - You're sad and you lack the energy to do things you once enjoyed. You feel a general sadness and hopelessness with no logical reason behind it and you can't seem to shake it.
+- trait: envious
+  desc:
+    - you want what other people have whether it's charming good looks or the last chocolate frosted donut. You're not happy with what you have and strive to outdo your peers and try to take what is not rightfully yours.
+- trait: gloomy
+  desc:
+    - You see the world through gray-tinged lenses - the glass is always half empty. Things don't hold your interest for long, fatigue constantly looms over your shoulder.
+- trait: grumpy
+  desc:
+    - You're typically irritable or grouchy. You're dismissive to new ideas and give people the cold shoulder. You just want to sulk in a corner. You’re not mad or mean — you’re just unpleasant.
+- trait: indifferent
+  desc:
+    - You don't care much about things one way or another. The glass isn't half full or empty, the glass just has water in it. You just have a general lack of interest of things going on around you.
+- trait: irritated
+  desc:
+    - You're impatient or exasperated, things just rub you the wrong way. You're always slightly angry and annoyed but not to an extreme point. You can still have a laugh but happiness is not your default state.
+- trait: melancholy
+  desc:
+    - You feel a pensive sadness, typically with no obvious cause. You're not depressed, but you're not happy. Things make you smile and laugh but you always seem to go back to a general sad mood.
+- trait: pessimistic
+  desc:
+    - You tend to see the worst aspect of things or believe that the worst will happen. The glass is never half-ful; why would it be? Good things don't just happen for no reason and people are creatures of disapointent and let-downs.
+- trait: restless
+  desc:
+    - You're unable to rest or relax as a result of anxiety or sometimes boredom. You always feel the need to move and be in motion. When you're not being productive you start to go a bit stir crazy. Things just need to happen and you hate waiting for them to start.
+- trait: stressed
+  desc:
+    - You're always under pressure. You feel like you always need to deliver some kind of output or something. You feel anxious, tired and irritable because of what seems like too much work or pressure is put on you.
+- trait: weird
+  desc:
+    - You're socially awkward and don't seem to get social cues. You like strange things and when people ask you about yourself you give unusual answers. You have a bit of an eccentric style that's very distinct.
+- trait: weird
+  desc:
+    - You're strange or different, but not necessarily bad. You do things just a little differently, wear socks with sandals, think Han shot first. What ever the reason is, you just seem kinda.. weird.

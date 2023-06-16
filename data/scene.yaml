@@ -1,0 +1,39 @@
+subject:
+- some mountains
+- trees
+- a forrest
+- a small lake
+- a huge lake
+- a desert
+- a stream
+- a river
+- a lake
+- a meadow
+- plains
+- a plateu
+- a canyon
+weather:
+- on a rainy
+- on a stormy
+- on a cloudy
+- on a wet
+- on a windy
+- during a sand-storm
+- during a snow-storm
+- on a foggy
+- on a snowy
+- on a hail pouring
+- during a wildfire at
+- in a blizzard at
+- covered by mist at
+timeofday:
+- night
+- day
+- dawn
+- evening
+- morning
+seasons:
+- autumn
+- winter
+- spring
+- summer
